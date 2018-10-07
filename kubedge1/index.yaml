@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: 2018-10-06T21:26:31.506808265-05:00
+entries:
+  kubeplay:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2018-10-07T00:18:40.861634156-05:00
+    description: A Helm chart for Kubernetes
+    digest: 11db8a55c996b1daf912912fd996bd679ee238a0c84d3885918a1e2a924c8371
+    name: kubeplay
+    urls:
+    - kubeplay-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-07T00:18:40.860734573-05:00
