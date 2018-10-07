@@ -1,23 +1,23 @@
 apiVersion: v1
 entries:
-  kubedge:
+  kubedge-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T01:30:55.324316648-05:00
+    created: 2018-10-07T13:41:40.466981593-05:00
     description: A Helm chart for Kubernetes
-    digest: 9ebd39990d56f556bc9fa387db6fc897dadc675e46539bdb30aab92cf95e64c7
-    name: kubedge
+    digest: b6b36b27aa740401ae9457a1c2e9531ff0efdd8919b599cefe76a2fc6e4f36c0
+    name: kubedge-arm32v7
     urls:
-    - kubedge-0.1.0.tgz
+    - kubedge-arm32v7-0.1.0.tgz
     version: 0.1.0
-  kubeplay:
+  kubeplay-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T01:30:55.324668835-05:00
+    created: 2018-10-07T13:41:40.467374938-05:00
     description: A Helm chart for Kubernetes
-    digest: 11db8a55c996b1daf912912fd996bd679ee238a0c84d3885918a1e2a924c8371
-    name: kubeplay
+    digest: 153c813130530e3dddbdcea51081c76c1e424e6d37237cba5bdafddc04e8440d
+    name: kubeplay-arm32v7
     urls:
-    - kubeplay-0.1.0.tgz
+    - kubeplay-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-07T01:30:55.323774333-05:00
+generated: 2018-10-07T13:41:40.466427846-05:00
