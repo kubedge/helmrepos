@@ -1,53 +1,53 @@
 apiVersion: v1
 entries:
-  kubesim_5gc-arm32v7:
+  kubesim_5gc:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:40:04.014593854-05:00
+    created: 2018-10-07T13:57:42.417354592-05:00
     description: A Helm chart for Kubernetes
-    digest: 24ddfbc603e822fac462859470cc5a166757ca86a8e6c0398e1cac9ba17902ed
-    name: kubesim_5gc-arm32v7
+    digest: b7bd393a740d89c2861fc6e0587672a29686dcb00d78d815d3db50286e949cd5
+    name: kubesim_5gc
     urls:
-    - kubesim_5gc-arm32v7-0.1.0.tgz
+    - kubesim_5gc-0.1.0.tgz
     version: 0.1.0
-  kubesim_elte-arm32v7:
+  kubesim_elte:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:40:04.015174245-05:00
+    created: 2018-10-07T13:57:42.417693725-05:00
     description: A Helm chart for Kubernetes
-    digest: 2e6110169248fa9c66dc251c710724fa98a21e6bc8ce906fc00486e44160cd1e
-    name: kubesim_elte-arm32v7
+    digest: 46b49fcd5157bc8fa2a26f2f4d27cddba6ceafab57573b925838aa3c34ffc7e3
+    name: kubesim_elte
     urls:
-    - kubesim_elte-arm32v7-0.1.0.tgz
+    - kubesim_elte-0.1.0.tgz
     version: 0.1.0
-  kubesim_epc-arm32v7:
+  kubesim_epc:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:40:04.015578535-05:00
+    created: 2018-10-07T13:57:42.417954272-05:00
     description: A Helm chart for Kubernetes
-    digest: a0039d9128c419ba86d479c5bd78ac27c3037535e2d481d9a1a9e0370fcf8a3e
-    name: kubesim_epc-arm32v7
+    digest: d36df20276a0e6eac2fa953b46c8a5d75bbe806ccb0ac7d7795205bf6ee94a33
+    name: kubesim_epc
     urls:
-    - kubesim_epc-arm32v7-0.1.0.tgz
+    - kubesim_epc-0.1.0.tgz
     version: 0.1.0
-  kubesim_lte-arm32v7:
+  kubesim_lte:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:40:04.016010385-05:00
+    created: 2018-10-07T13:57:42.418287739-05:00
     description: A Helm chart for Kubernetes
-    digest: 446a5114303dcd4322d749437a00f05ddf4be8ebc5a87601c34b62023daa56dd
-    name: kubesim_lte-arm32v7
+    digest: 5480ee79fe8d84ed2adae45caea67795213fee49900a0542672e8749bcf18690
+    name: kubesim_lte
     urls:
-    - kubesim_lte-arm32v7-0.1.0.tgz
+    - kubesim_lte-0.1.0.tgz
     version: 0.1.0
-  kubesim_nr-arm32v7:
+  kubesim_nr:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:40:04.016442245-05:00
+    created: 2018-10-07T13:57:42.418567008-05:00
     description: A Helm chart for Kubernetes
-    digest: abfe93ef4a6360af5d92cc01e01d7012af41f12592de7ef58e81961c4a2f348c
-    name: kubesim_nr-arm32v7
+    digest: e7ef6427fe96f6bbbeafedc651d9f2c29141c46c21b464f75736af6f9a6ce133
+    name: kubesim_nr
     urls:
-    - kubesim_nr-arm32v7-0.1.0.tgz
+    - kubesim_nr-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-07T13:40:04.01397242-05:00
+generated: 2018-10-07T13:57:42.416829435-05:00
