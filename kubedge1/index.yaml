@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: 2018-10-06T21:26:31.506808265-05:00
+entries:
+  kubeplay-amd64:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2018-10-07T00:21:35.454568283-05:00
+    description: A Helm chart for Kubernetes
+    digest: 1c4ec646cb7f9dc9b2866284bdbb7e4d5eb840f663c4ecfd71f56298e67e90b7
+    name: kubeplay-amd64
+    urls:
+    - kubeplay-amd64-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-07T00:21:35.45406592-05:00
