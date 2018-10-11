@@ -1,53 +1,53 @@
 apiVersion: v1
 entries:
-  kubesim_5gc:
+  kubesim-5gc:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:57:42.417354592-05:00
-    description: A Helm chart for Kubernetes
-    digest: b7bd393a740d89c2861fc6e0587672a29686dcb00d78d815d3db50286e949cd5
-    name: kubesim_5gc
+    created: 2018-10-09T03:03:46.080029887-05:00
+    description: Kubedge 5G NC Simulator
+    digest: 8a333532aaf77754d180c5c366649776dc402c2e50ceb06f19585635f3c2419f
+    name: kubesim-5gc
     urls:
-    - kubesim_5gc-0.1.0.tgz
+    - kubesim-5gc-0.1.0.tgz
     version: 0.1.0
-  kubesim_elte:
+  kubesim-elte:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:57:42.417693725-05:00
-    description: A Helm chart for Kubernetes
-    digest: 46b49fcd5157bc8fa2a26f2f4d27cddba6ceafab57573b925838aa3c34ffc7e3
-    name: kubesim_elte
+    created: 2018-10-09T03:03:46.080293255-05:00
+    description: Kubedge eLTE Simulator
+    digest: fef307fd1d92c51b6b30faadc514c970577298cda1b77439fb10a71be1ac050f
+    name: kubesim-elte
     urls:
-    - kubesim_elte-0.1.0.tgz
+    - kubesim-elte-0.1.0.tgz
     version: 0.1.0
-  kubesim_epc:
+  kubesim-epc:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:57:42.417954272-05:00
-    description: A Helm chart for Kubernetes
-    digest: d36df20276a0e6eac2fa953b46c8a5d75bbe806ccb0ac7d7795205bf6ee94a33
-    name: kubesim_epc
+    created: 2018-10-09T03:03:46.08059786-05:00
+    description: Kubedge EPC Simulator
+    digest: ee0c20c9fe2e1c4c5ebf8263aea25e4ca1f6e182f50680fa267d315165275a15
+    name: kubesim-epc
     urls:
-    - kubesim_epc-0.1.0.tgz
+    - kubesim-epc-0.1.0.tgz
     version: 0.1.0
-  kubesim_lte:
+  kubesim-lte:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:57:42.418287739-05:00
-    description: A Helm chart for Kubernetes
-    digest: 5480ee79fe8d84ed2adae45caea67795213fee49900a0542672e8749bcf18690
-    name: kubesim_lte
+    created: 2018-10-09T03:03:46.080868105-05:00
+    description: Kubedge LTE Simulator
+    digest: 672bff5a12b9afc3820b07afcbc4efdcdb7b579faad1d41d7876cac1072ada00
+    name: kubesim-lte
     urls:
-    - kubesim_lte-0.1.0.tgz
+    - kubesim-lte-0.1.0.tgz
     version: 0.1.0
-  kubesim_nr:
+  kubesim-nr:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:57:42.418567008-05:00
-    description: A Helm chart for Kubernetes
-    digest: e7ef6427fe96f6bbbeafedc651d9f2c29141c46c21b464f75736af6f9a6ce133
-    name: kubesim_nr
+    created: 2018-10-09T03:03:46.081217913-05:00
+    description: Kubedge NR Simulator
+    digest: 4bcfa5d8c6e8d34c459b6ce3f397f9ddaab5731264fa7a2c7dc76a254583b304
+    name: kubesim-nr
     urls:
-    - kubesim_nr-0.1.0.tgz
+    - kubesim-nr-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-07T13:57:42.416829435-05:00
+generated: 2018-10-09T03:03:46.079374607-05:00

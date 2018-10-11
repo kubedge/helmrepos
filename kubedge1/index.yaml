@@ -3,7 +3,7 @@ entries:
   kubedge:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:56:02.407433205-05:00
+    created: 2018-10-09T03:03:13.847509581-05:00
     description: A Helm chart for Kubernetes
     digest: 9ebd39990d56f556bc9fa387db6fc897dadc675e46539bdb30aab92cf95e64c7
     name: kubedge
@@ -13,11 +13,11 @@ entries:
   kubeplay:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-07T13:56:02.407765385-05:00
-    description: A Helm chart for Kubernetes
-    digest: 11db8a55c996b1daf912912fd996bd679ee238a0c84d3885918a1e2a924c8371
+    created: 2018-10-09T03:03:13.847828235-05:00
+    description: Kubedge simple GO microservice
+    digest: c2bba2544e053549ac23915c5e9f5ba800f1d425f96160b1abca898de0ea4934
     name: kubeplay
     urls:
     - kubeplay-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-07T13:56:02.406771791-05:00
+generated: 2018-10-09T03:03:13.846944784-05:00
