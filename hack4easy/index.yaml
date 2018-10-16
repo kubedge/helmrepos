@@ -3,7 +3,7 @@ entries:
   kubesim-5gc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-16T00:49:14.717240331Z
+    created: 2018-10-16T01:28:50.2349399Z
     description: A Helm chart for Kubedge Simulator
     digest: 3d52afcc3c88ff9febc471e0ae7d355ca91f0a013a4b4874d071f4834d176198
     name: kubesim-5gc-arm32v7
@@ -13,7 +13,7 @@ entries:
   kubesim-elte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-16T00:49:14.719820998Z
+    created: 2018-10-16T01:28:50.23660531Z
     description: A Helm chart for Kubedge Simulator
     digest: 1ac51dcf4d23faa721321bdf5f3548c19590cf47bd48e5aad02f933240c4c9c0
     name: kubesim-elte-arm32v7
@@ -23,7 +23,7 @@ entries:
   kubesim-epc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-16T00:49:14.722492289Z
+    created: 2018-10-16T01:28:50.238012232Z
     description: A Helm chart for Kubedge Simulator
     digest: bcbd6410e0bd6fdca6166f93ed4cd96fccb3c30f126803241bc324adcb4500d8
     name: kubesim-epc-arm32v7
@@ -33,7 +33,7 @@ entries:
   kubesim-lte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-16T00:49:14.725000144Z
+    created: 2018-10-16T01:28:50.239696548Z
     description: A Helm chart for Kubedge Simulator
     digest: 9bdd72582b1825aab84dd17928862b8191f6f875241beaf591be9e3f9c0d9bcf
     name: kubesim-lte-arm32v7
@@ -43,11 +43,11 @@ entries:
   kubesim-nr-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-16T00:49:14.727507582Z
+    created: 2018-10-16T01:28:50.241182167Z
     description: A Helm chart for Kubedge Simulator
     digest: 782c169f9c3173236b2453caf0b51de4bfe72a9bfa39df5ca22baf6e84cb9880
     name: kubesim-nr-arm32v7
     urls:
     - kubesim-nr-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-16T00:49:14.711117387Z
+generated: 2018-10-16T01:28:50.232665222Z
