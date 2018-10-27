@@ -3,7 +3,7 @@ entries:
   kubedge-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-27T03:04:01.788636927Z
+    created: 2018-10-27T03:22:40.734067847Z
     description: A Helm chart for Kubernetes
     digest: 51b77c6d663b52ad53879a0303e0f6d28370b15f71b17bd138b521886ec18701
     name: kubedge-arm32v7
@@ -13,7 +13,7 @@ entries:
   kubeplay-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-27T03:04:01.790346032Z
+    created: 2018-10-27T03:22:40.735716535Z
     description: A Helm chart for Kubernetes
     digest: f1253479c90cc21f8c3dc21fc5548c24d177c36e948e7bbb676ed2720f669e21
     name: kubeplay-arm32v7
@@ -23,11 +23,11 @@ entries:
   kubesim-blinkt-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-27T03:04:01.792322323Z
+    created: 2018-10-27T03:22:40.73763168Z
     description: A Helm chart for Kubedge Simulator
-    digest: 1bf1c912f58fac3f6ec61fa46190342201ddfbf3fc87de007670166dda478e0f
+    digest: e937bd628891b8d85c9636b7b3ac84dec39b4737a2c5bead95ca171b2e58fd02
     name: kubesim-blinkt-arm32v7
     urls:
     - kubesim-blinkt-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-27T03:04:01.786353086Z
+generated: 2018-10-27T03:22:40.731913432Z
