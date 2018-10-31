@@ -3,9 +3,9 @@ entries:
   kubesim-5gc-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-20T15:38:35.248024296Z
+    created: 2018-10-31T13:39:26.180837509Z
     description: A Helm chart for Kubedge Simulator
-    digest: 9cab6966f83536f15c1ee101fc38c403fbef46531e25732c30f6c4abcd390127
+    digest: 90e3d6f1d8602e1dac4949bd3c667edc6a7be640e77aa14f725e235926b1e66f
     name: kubesim-5gc-amd64
     urls:
     - kubesim-5gc-amd64-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   kubesim-elte-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-20T15:38:35.248440332Z
+    created: 2018-10-31T13:39:26.181291662Z
     description: A Helm chart for Kubedge Simulator
-    digest: 6c088784db580980a7824698092c55c3637953e899b7d8c9955a0386e4e48688
+    digest: 0307aab6002b1f7fb5738eeb223d2cc1d8069b45833f6ed0800fb7c38d7ac5ba
     name: kubesim-elte-amd64
     urls:
     - kubesim-elte-amd64-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   kubesim-epc-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-20T15:38:35.248837485Z
+    created: 2018-10-31T13:39:26.1817419Z
     description: A Helm chart for Kubedge Simulator
-    digest: 03b8cfa030888ddfa471aff5ac6c8aab753dc77311a4f3316e6202c5cc399690
+    digest: edc755e0118640ec33c0b603b664eee3135bab4fb1632b42c291e38b1381fb02
     name: kubesim-epc-amd64
     urls:
     - kubesim-epc-amd64-0.1.0.tgz
@@ -33,9 +33,9 @@ entries:
   kubesim-lte-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-20T15:38:35.249267858Z
+    created: 2018-10-31T13:39:26.182186611Z
     description: A Helm chart for Kubedge Simulator
-    digest: 8b11b397e943d020d6e61a8d31e67af2ed632a1e22ccf8f73b4c8c141ed7edba
+    digest: 5b612a4623afd5adb21640f6c2ed2ee213ef7b9d828d787fe21b94f391fe8f53
     name: kubesim-lte-amd64
     urls:
     - kubesim-lte-amd64-0.1.0.tgz
@@ -43,11 +43,11 @@ entries:
   kubesim-nr-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-20T15:38:35.249613994Z
+    created: 2018-10-31T13:39:26.182642062Z
     description: A Helm chart for Kubedge Simulator
-    digest: 9a6086ed76b78c9901baf28c059580a65a36f7bf9f1545ce9c2d7671b8156821
+    digest: 43fdd6af559df8233869c8e4d00603ad67a03c5ae7f18aa2866a510ab09e650f
     name: kubesim-nr-amd64
     urls:
     - kubesim-nr-amd64-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-20T15:38:35.247473883Z
+generated: 2018-10-31T13:39:26.180239431Z
