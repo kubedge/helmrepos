@@ -3,9 +3,9 @@ entries:
   kubedge-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-31T13:39:26.088742434Z
+    created: 2018-10-31T13:40:27.245084149Z
     description: A Helm chart for Kubernetes
-    digest: 69b4e12517dbb79e731c43cca3f726e30b50c2c3a85fa256933c400beb3d0a05
+    digest: 24baaaef4932be0b80856d0c631c82c784ffd6c25dd7789cf3ead3419056d46d
     name: kubedge-amd64
     urls:
     - kubedge-amd64-0.1.0.tgz
@@ -13,11 +13,11 @@ entries:
   kubeplay-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-10-31T13:39:26.089243908Z
+    created: 2018-10-31T13:40:27.245464601Z
     description: A Helm chart for Kubernetes
-    digest: d79ba5c010de4fa9e85527b59c64c0a37b71bc67670cf191fb7fccd2e97967e7
+    digest: 17235188442a4dd5edcdbd9ef5491d7986f6ba4d1fadff5a91fbad980715d474
     name: kubeplay-amd64
     urls:
     - kubeplay-amd64-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-31T13:39:26.088227609Z
+generated: 2018-10-31T13:40:27.244509644Z
