@@ -1,3 +1,85 @@
 apiVersion: v1
-entries: {}
-generated: 2018-10-06T21:26:38.924419228-05:00
+entries:
+  fluentd-arm32v7:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: 2018-11-03T17:36:49.296132822Z
+    description: A Fluentd Elasticsearch Helm chart for Kubernetes.
+    digest: c59f3e353f275535cdbb26f79a21f3893a467b62db7fa4d985cbed798de454c2
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: pete.brown@powerhrg.com
+      name: rendhalver
+    name: fluentd-arm32v7
+    sources:
+    - https://quay.io/repository/coreos/fluentd-kubernetes
+    - https://github.com/coreos/fluentd-kubernetes-daemonset
+    - https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
+    urls:
+    - fluentd-arm32v7-1.0.0.tgz
+    version: 1.0.0
+  grafana-arm32v7:
+  - appVersion: 1.17.4
+    created: 2018-11-03T17:36:49.302006527Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 8fa27790bd2ba983c8a6f7e67a2c415e1c00e3221c6a95dcf4b0fdb4a02ef797
+    engine: gotpl
+    home: https://grafana.net
+    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+    kubeVersion: ^1.8.0-0
+    maintainers:
+    - email: zanhsieh@gmail.com
+      name: zanhsieh
+    - email: rluckie@cisco.com
+      name: rtluckie
+    name: grafana-arm32v7
+    sources:
+    - https://github.com/grafana/grafana
+    urls:
+    - grafana-arm32v7-1.17.4.tgz
+    version: 1.17.4
+  kubernetes-dashboard-arm32v7:
+  - appVersion: 0.7.5
+    created: 2018-11-03T17:36:49.305871497Z
+    description: General-purpose web UI for Kubernetes clusters
+    digest: 48579d936fadb6bd0c8034b626aded59cbf0682b48a1a66aaf7e70ca7713ad18
+    home: https://github.com/kubernetes/dashboard
+    icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
+    keywords:
+    - kubernetes
+    - dashboard
+    maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: kfox1111
+    name: kubernetes-dashboard-arm32v7
+    sources:
+    - https://github.com/kubernetes/dashboard
+    urls:
+    - kubernetes-dashboard-arm32v7-0.7.5.tgz
+    version: 0.7.5
+  prometheus-arm32v7:
+  - appVersion: 0.7.5
+    created: 2018-11-03T17:36:49.326514827Z
+    description: Prometheus is a monitoring system and time series database.
+    digest: 98541759882a81e15220f1e0b2f5f93707c7438c0d231a4d0e470bc755d0bb11
+    engine: gotpl
+    home: https://prometheus.io/
+    icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
+    maintainers:
+    - email: mgoodness@gmail.com
+      name: mgoodness
+    - email: gianrubio@gmail.com
+      name: gianrubio
+    name: prometheus-arm32v7
+    sources:
+    - https://github.com/prometheus/alertmanager
+    - https://github.com/prometheus/prometheus
+    - https://github.com/prometheus/pushgateway
+    - https://github.com/prometheus/node_exporter
+    - https://github.com/kubernetes/kube-state-metrics
+    tillerVersion: '>=2.8.0'
+    urls:
+    - prometheus-arm32v7-7.3.4.tgz
+    version: 7.3.4
+generated: 2018-11-03T17:36:49.292056812Z
