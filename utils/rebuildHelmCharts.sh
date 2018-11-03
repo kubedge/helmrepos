@@ -20,5 +20,6 @@ do
    cd $GOODPATH
 done
 cd helmrepos
-git add git commit -a -m "update charts"; git push
+git commit -a -m "update charts"
+git push origin HEAD:refs/for/arm32v7
 cd $GOODPATH
