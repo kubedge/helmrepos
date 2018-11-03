@@ -12,6 +12,7 @@ cd kube-rpi;helm package charts/prometheus-arm32v7/ --app-version $KUBEDGEVERSIO
 cd kube-rpi;helm package charts/kubernetes-dashboard-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 cd kube-rpi;helm package charts/fluentd-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 cd kube-rpi;helm package charts/grafana-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kube-rpi;helm package charts/weave-scope-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 for i in kubedge1 kubedge2 hack4easy
 do
    cd helmrepos/$i
