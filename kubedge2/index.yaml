@@ -3,7 +3,7 @@ entries:
   fluentd-arm32v7:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2018-11-03T18:02:17.313766838Z
+    created: 2018-11-03T18:05:50.943708484Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
     digest: c59f3e353f275535cdbb26f79a21f3893a467b62db7fa4d985cbed798de454c2
     home: https://www.fluentd.org/
@@ -21,7 +21,7 @@ entries:
     version: 1.0.0
   grafana-arm32v7:
   - appVersion: 1.17.4
-    created: 2018-11-03T18:02:17.322102763Z
+    created: 2018-11-03T18:05:50.949740989Z
     description: The leading tool for querying and visualizing time series and metrics.
     digest: 8fa27790bd2ba983c8a6f7e67a2c415e1c00e3221c6a95dcf4b0fdb4a02ef797
     engine: gotpl
@@ -41,7 +41,7 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-arm32v7:
   - appVersion: 0.7.5
-    created: 2018-11-03T18:02:17.339205651Z
+    created: 2018-11-03T18:05:50.953796843Z
     description: General-purpose web UI for Kubernetes clusters
     digest: 48579d936fadb6bd0c8034b626aded59cbf0682b48a1a66aaf7e70ca7713ad18
     home: https://github.com/kubernetes/dashboard
@@ -60,7 +60,7 @@ entries:
     version: 0.7.5
   prometheus-arm32v7:
   - appVersion: 0.7.5
-    created: 2018-11-03T18:02:17.354708708Z
+    created: 2018-11-03T18:05:50.9714553Z
     description: Prometheus is a monitoring system and time series database.
     digest: 98541759882a81e15220f1e0b2f5f93707c7438c0d231a4d0e470bc755d0bb11
     engine: gotpl
@@ -82,4 +82,4 @@ entries:
     urls:
     - prometheus-arm32v7-7.3.4.tgz
     version: 7.3.4
-generated: 2018-11-03T18:02:17.309729525Z
+generated: 2018-11-03T18:05:50.939856534Z
