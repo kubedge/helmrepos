@@ -3,7 +3,7 @@ entries:
   fluentd-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.772891577Z
+    created: 2018-11-07T06:49:59.20665611Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
     digest: 23b1eb5a18c52d3df8f445e839ccd6eb54ff1cd44c2fa089fff0655df93af403
     home: https://www.fluentd.org/
@@ -21,7 +21,7 @@ entries:
     version: 1.0.0
   grafana-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.779039629Z
+    created: 2018-11-07T06:49:59.212826451Z
     description: The leading tool for querying and visualizing time series and metrics.
     digest: 71b715ae639e75bb75ee9b99415700b74318aa442e5ecb051c4e29e84680b7bd
     engine: gotpl
@@ -41,7 +41,7 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.782959823Z
+    created: 2018-11-07T06:49:59.220841161Z
     description: General-purpose web UI for Kubernetes clusters
     digest: 5e7c5dc676b2c71cb805bc1ca39d999270ddc8215fe5ca1c1d32318b6c5c77d9
     home: https://github.com/kubernetes/dashboard
@@ -60,7 +60,7 @@ entries:
     version: 0.7.5
   prometheus-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.803433241Z
+    created: 2018-11-07T06:49:59.241878529Z
     description: Prometheus is a monitoring system and time series database.
     digest: 34972b573a4b36e78cd015ee4c7b82e3b2e06258277eb25f27ac2ae53f610d53
     engine: gotpl
@@ -84,7 +84,7 @@ entries:
     version: 7.3.4
   weave-scope-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.81048858Z
+    created: 2018-11-07T06:49:59.248048714Z
     description: A Helm chart for the Weave Scope cluster visualizer.
     digest: 85620e73c2e144c3d4613a0224d1d59b89ce35ec547882db70261a0ec64d8e86
     home: https://www.weave.works/oss/scope/
@@ -102,4 +102,4 @@ entries:
     urls:
     - weave-scope-arm32v7-0.10.0.tgz
     version: 0.10.0
-generated: 2018-11-07T05:49:03.769138049Z
+generated: 2018-11-07T06:49:59.20286326Z

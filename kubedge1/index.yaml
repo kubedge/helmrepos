@@ -3,7 +3,7 @@ entries:
   kubedge-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.329938294Z
+    created: 2018-11-07T06:49:58.831663108Z
     description: A Helm chart for Kubernetes
     digest: 51b77c6d663b52ad53879a0303e0f6d28370b15f71b17bd138b521886ec18701
     name: kubedge-arm32v7
@@ -13,7 +13,7 @@ entries:
   kubeplay-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.331772454Z
+    created: 2018-11-07T06:49:58.83340607Z
     description: A Helm chart for Kubernetes
     digest: f1253479c90cc21f8c3dc21fc5548c24d177c36e948e7bbb676ed2720f669e21
     name: kubeplay-arm32v7
@@ -23,7 +23,7 @@ entries:
   kubesim-blinkt-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.335487493Z
+    created: 2018-11-07T06:49:58.836730693Z
     description: A Helm chart for Kubedge Simulator
     digest: 6fb559ee5da984ecd964c673e8b869ec8dcb1581933b7738b0fbc29e88d872ed
     name: kubesim-blinkt-arm32v7
@@ -33,7 +33,7 @@ entries:
   kubesim-linkio-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.337663579Z
+    created: 2018-11-07T06:49:58.84130354Z
     description: A Helm chart for Kubedge Simulator
     digest: 2997b895b53a787612daf772f482877b5be0c0567b7b43dd737a055169267420
     name: kubesim-linkio-arm32v7
@@ -42,7 +42,7 @@ entries:
     version: 0.1.0
   kubesim-nats-operator-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.341399399Z
+    created: 2018-11-07T06:49:58.85041913Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
     digest: a3e8cf63db810fc8423035297b52ee3a901d5cdb9dd7e6e0aa5c979e6c6bd84f
     home: https://github.com/nats-io/nats-operator
@@ -66,18 +66,18 @@ entries:
   kubesim-nats-pub-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.350933949Z
+    created: 2018-11-07T06:49:58.855067446Z
     description: A Helm chart for Kubedge Simulator
-    digest: 46157f003020e5c89ab8ea6a2c52ddab242c58c5bab23d8caab267d25ed7e213
+    digest: 0795e9acf22c91f619b371e9ee1c8c78f5ba8674c1023b213a047fe3df9e1705
     name: kubesim-nats-pub-arm32v7
     urls:
     - kubesim-nats-pub-arm32v7-0.1.0.tgz
     version: 0.1.0
   kubesim-nats-streaming-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.354347322Z
+    created: 2018-11-07T06:49:58.857870716Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: cb05403e8b769e5a1d5c02cf94a047518a1d6ba7f4a7b631d660b06919b4daf0
+    digest: 30a43b0414b23f4c5eb3196934d4feb28551a1ab922e26196f7d9a9aea5196cd
     home: https://github.com/canhnt/k8s-nats-streaming
     name: kubesim-nats-streaming-arm32v7
     urls:
@@ -86,11 +86,11 @@ entries:
   kubesim-nats-sub-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-07T05:49:03.357793039Z
+    created: 2018-11-07T06:49:58.860000187Z
     description: A Helm chart for Kubedge Simulator
-    digest: cbfeba10d0d7f7638bb1e3c66a0a4fbeedc58fd8552a6a38435eff686e05d72b
+    digest: a8cfeafb356bd2a621dae446abddd183f0e0bf6ae951fb66648f7f02ae08824f
     name: kubesim-nats-sub-arm32v7
     urls:
     - kubesim-nats-sub-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-07T05:49:03.327391167Z
+generated: 2018-11-07T06:49:58.829274992Z
