@@ -3,7 +3,7 @@ entries:
   kubedge-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T21:53:13.063885307Z
+    created: 2018-11-11T22:29:46.52642496Z
     description: A Helm chart for Kubernetes
     digest: 51b77c6d663b52ad53879a0303e0f6d28370b15f71b17bd138b521886ec18701
     name: kubedge-arm32v7
@@ -13,7 +13,7 @@ entries:
   kubeplay-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T21:53:13.065593525Z
+    created: 2018-11-11T22:29:46.528206563Z
     description: A Helm chart for Kubernetes
     digest: f1253479c90cc21f8c3dc21fc5548c24d177c36e948e7bbb676ed2720f669e21
     name: kubeplay-arm32v7
@@ -23,7 +23,7 @@ entries:
   kubesim-blinkt-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T21:53:13.069546415Z
+    created: 2018-11-11T22:29:46.531114149Z
     description: A Helm chart for Kubedge Simulator
     digest: 6fb559ee5da984ecd964c673e8b869ec8dcb1581933b7738b0fbc29e88d872ed
     name: kubesim-blinkt-arm32v7
@@ -33,7 +33,7 @@ entries:
   kubesim-linkio-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T21:53:13.073889928Z
+    created: 2018-11-11T22:29:46.53282419Z
     description: A Helm chart for Kubedge Simulator
     digest: 2997b895b53a787612daf772f482877b5be0c0567b7b43dd737a055169267420
     name: kubesim-linkio-arm32v7
@@ -43,7 +43,7 @@ entries:
   kubesim-nats-pub-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T21:53:13.076611993Z
+    created: 2018-11-11T22:29:46.534873135Z
     description: A Helm chart for Kubedge Simulator
     digest: 0795e9acf22c91f619b371e9ee1c8c78f5ba8674c1023b213a047fe3df9e1705
     name: kubesim-nats-pub-arm32v7
@@ -53,11 +53,11 @@ entries:
   kubesim-nats-sub-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T21:53:13.079543119Z
+    created: 2018-11-11T22:29:46.536990778Z
     description: A Helm chart for Kubedge Simulator
     digest: a8cfeafb356bd2a621dae446abddd183f0e0bf6ae951fb66648f7f02ae08824f
     name: kubesim-nats-sub-arm32v7
     urls:
     - kubesim-nats-sub-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-11T21:53:13.061452719Z
+generated: 2018-11-11T22:29:46.524234089Z
