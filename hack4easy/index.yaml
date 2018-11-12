@@ -3,7 +3,7 @@ entries:
   kubesim-5gc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T23:17:06.58259976Z
+    created: 2018-11-12T01:27:03.663584679Z
     description: A Helm chart for Kubedge Simulator
     digest: 5e595c69d687d08773bf9c592c719ab48e156d546b7515e0284bda29028b200a
     name: kubesim-5gc-arm32v7
@@ -13,9 +13,9 @@ entries:
   kubesim-elte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T23:17:06.584401154Z
+    created: 2018-11-12T01:27:03.665482847Z
     description: A Helm chart for Kubedge Simulator
-    digest: 7e703aa47df04455042be17cf66597304571530b29135c58bc85a5c7aaf13ba2
+    digest: 6213464e0b5f4e16dda48160486d57e67e6b770a4457fe16060a0c394f218a75
     name: kubesim-elte-arm32v7
     urls:
     - kubesim-elte-arm32v7-0.1.0.tgz
@@ -23,7 +23,7 @@ entries:
   kubesim-epc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T23:17:06.586069424Z
+    created: 2018-11-12T01:27:03.667225754Z
     description: A Helm chart for Kubedge Simulator
     digest: 3a00d7691a2a2c99aebed79cf3a6edbd02c6350d290e5e00c22249569081f8e8
     name: kubesim-epc-arm32v7
@@ -33,9 +33,9 @@ entries:
   kubesim-lte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T23:17:06.587896599Z
+    created: 2018-11-12T01:27:03.668936996Z
     description: A Helm chart for Kubedge Simulator
-    digest: 1e454ced86bcd540a67fdea408e767c2edab6b61489016779b24af19dfb8ed11
+    digest: c4b9f7948e113d63499b8ee5f5ec34ff160473580e026aefcadfcbb7caa2c683
     name: kubesim-lte-arm32v7
     urls:
     - kubesim-lte-arm32v7-0.1.0.tgz
@@ -43,11 +43,11 @@ entries:
   kubesim-nr-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-11T23:17:06.589937523Z
+    created: 2018-11-12T01:27:03.678130282Z
     description: A Helm chart for Kubedge Simulator
-    digest: 8e3ecd110f792e97a58ea26b9928eb49276847ad76b40f5e5a1899150cd8666c
+    digest: 8c5cee54238d1462e8a8ae90415e8b02f08eaf7adbad6fadd1fb6b3aec947c68
     name: kubesim-nr-arm32v7
     urls:
     - kubesim-nr-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-11T23:17:06.580307171Z
+generated: 2018-11-12T01:27:03.661339222Z
