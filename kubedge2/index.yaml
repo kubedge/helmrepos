@@ -3,7 +3,7 @@ entries:
   fluentd-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-18T23:29:32.009618394Z
+    created: 2018-11-18T23:40:37.864870729Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
     digest: 23b1eb5a18c52d3df8f445e839ccd6eb54ff1cd44c2fa089fff0655df93af403
     home: https://www.fluentd.org/
@@ -21,7 +21,7 @@ entries:
     version: 1.0.0
   grafana-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-18T23:29:32.019274629Z
+    created: 2018-11-18T23:40:37.877209238Z
     description: The leading tool for querying and visualizing time series and metrics.
     digest: 71b715ae639e75bb75ee9b99415700b74318aa442e5ecb051c4e29e84680b7bd
     engine: gotpl
@@ -41,7 +41,7 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-18T23:29:32.025623074Z
+    created: 2018-11-18T23:40:37.886285269Z
     description: General-purpose web UI for Kubernetes clusters
     digest: 5e7c5dc676b2c71cb805bc1ca39d999270ddc8215fe5ca1c1d32318b6c5c77d9
     home: https://github.com/kubernetes/dashboard
@@ -60,7 +60,7 @@ entries:
     version: 0.7.5
   nats-operator-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-18T23:29:32.031630272Z
+    created: 2018-11-18T23:40:37.896059941Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
     digest: 36750e0f9fafd21ddc7728c188c65a6d24adfe87aaf8d06cbf2adabeeb2c15cf
     home: https://github.com/nats-io/nats-operator
@@ -83,7 +83,7 @@ entries:
     version: 0.0.1
   nats-streaming-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-18T23:29:32.03446645Z
+    created: 2018-11-18T23:40:37.902983852Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
     digest: fe50e91c135ab7af02f6cd5978483fbe55298f1d935ae0ee98911d7084a75b9b
     home: https://github.com/canhnt/k8s-nats-streaming
@@ -93,7 +93,7 @@ entries:
     version: v0.3.0
   prometheus-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-18T23:29:32.055760781Z
+    created: 2018-11-18T23:40:37.930382309Z
     description: Prometheus is a monitoring system and time series database.
     digest: 34972b573a4b36e78cd015ee4c7b82e3b2e06258277eb25f27ac2ae53f610d53
     engine: gotpl
@@ -117,7 +117,7 @@ entries:
     version: 7.3.4
   weave-scope-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-18T23:29:32.066503987Z
+    created: 2018-11-18T23:40:37.944239401Z
     description: A Helm chart for the Weave Scope cluster visualizer.
     digest: 85620e73c2e144c3d4613a0224d1d59b89ce35ec547882db70261a0ec64d8e86
     home: https://www.weave.works/oss/scope/
@@ -135,4 +135,4 @@ entries:
     urls:
     - weave-scope-arm64v8-0.10.0.tgz
     version: 0.10.0
-generated: 2018-11-18T23:29:32.002816931Z
+generated: 2018-11-18T23:40:37.854814392Z
