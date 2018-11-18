@@ -3,61 +3,61 @@ entries:
   kubedge-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-12T17:07:00.571422586Z
+    created: 2018-11-18T23:26:08.043498019Z
     description: A Helm chart for Kubernetes
     digest: 51b77c6d663b52ad53879a0303e0f6d28370b15f71b17bd138b521886ec18701
     name: kubedge-arm32v7
     urls:
-    - kubedge-arm32v7-0.1.0.tgz
+    - kubedge-arm64v8-0.1.0.tgz
     version: 0.1.0
-  kubeplay-arm32v7:
+  kubeplay-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-12T17:07:00.574187945Z
+    created: 2018-11-18T23:26:08.046866485Z
     description: A Helm chart for Kubernetes
-    digest: f1253479c90cc21f8c3dc21fc5548c24d177c36e948e7bbb676ed2720f669e21
-    name: kubeplay-arm32v7
+    digest: 503fddc6ca798c245afc08cc69c9f9dbce1225b438a61a5e7c3139fd523c0ee9
+    name: kubeplay-arm64v8
     urls:
-    - kubeplay-arm32v7-0.1.0.tgz
+    - kubeplay-arm64v8-0.1.0.tgz
     version: 0.1.0
   kubesim-blinkt-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-12T17:07:00.580105537Z
+    created: 2018-11-18T23:26:08.052835037Z
     description: A Helm chart for Kubedge Simulator
     digest: 6fb559ee5da984ecd964c673e8b869ec8dcb1581933b7738b0fbc29e88d872ed
     name: kubesim-blinkt-arm32v7
     urls:
-    - kubesim-blinkt-arm32v7-0.1.0.tgz
+    - kubesim-blinkt-arm64v8-0.1.0.tgz
     version: 0.1.0
-  kubesim-linkio-arm32v7:
+  kubesim-linkio-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-12T17:07:00.58267975Z
+    created: 2018-11-18T23:26:08.056598604Z
     description: A Helm chart for Kubedge Simulator
-    digest: f4739ed459fe071cf7222dfee6b77a1eb7d54fde5db2ebeda2e446985ee3ae27
-    name: kubesim-linkio-arm32v7
+    digest: 093c62e0c2a4c439f882d3927b0b8b46871826bb615851d9283826510d84535f
+    name: kubesim-linkio-arm64v8
     urls:
-    - kubesim-linkio-arm32v7-0.1.0.tgz
+    - kubesim-linkio-arm64v8-0.1.0.tgz
     version: 0.1.0
-  kubesim-nats-pub-arm32v7:
+  kubesim-nats-pub-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-12T17:07:00.589953224Z
+    created: 2018-11-18T23:26:08.060163006Z
     description: A Helm chart for Kubedge Simulator
-    digest: 1faf4ddfb3da3084ab85b888eb174ba293110b0a066b0668c71ddd7f03138546
-    name: kubesim-nats-pub-arm32v7
+    digest: d49e24b626e3b5da9a9dd3d72d40d3f04193f507a43424e387718e28f0f4176c
+    name: kubesim-nats-pub-arm64v8
     urls:
-    - kubesim-nats-pub-arm32v7-0.1.0.tgz
+    - kubesim-nats-pub-arm64v8-0.1.0.tgz
     version: 0.1.0
-  kubesim-nats-sub-arm32v7:
+  kubesim-nats-sub-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-12T17:07:00.593581133Z
+    created: 2018-11-18T23:26:08.063777252Z
     description: A Helm chart for Kubedge Simulator
-    digest: 887a787bc9f58769fa947fda3a2e61a85f4ebb74da2281ae849d77c669017280
-    name: kubesim-nats-sub-arm32v7
+    digest: 5ba59377ff4ae0d1806454af8add94da3633c50ef26e268cd4e2f598ecb59e59
+    name: kubesim-nats-sub-arm64v8
     urls:
-    - kubesim-nats-sub-arm32v7-0.1.0.tgz
+    - kubesim-nats-sub-arm64v8-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-12T17:07:00.568814154Z
+generated: 2018-11-18T23:26:08.036041144Z
