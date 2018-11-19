@@ -13,13 +13,13 @@ cd kubesim_lte; helm package charts/kubesim-lte-arm32v7/ --app-version $KUBEDGEV
 cd kubesim_epc; helm package charts/kubesim-epc-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
 cd kubesim_nr; helm package charts/kubesim-nr-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
 # 
-cd kube-rpi; helm package charts/prometheus-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-cd kube-rpi; helm package charts/kubernetes-dashboard-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-cd kube-rpi; helm package charts/fluentd-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-cd kube-rpi; helm package charts/grafana-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-cd kube-rpi; helm package charts/weave-scope-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-cd kube-rpi; helm package charts/nats-operator-arm32v7 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-cd kube-rpi; helm package charts/nats-streaming-arm32v7 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/prometheus-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/kubernetes-dashboard-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/fluentd-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/grafana-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/weave-scope-arm32v7/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/nats-operator-arm32v7 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/nats-streaming-arm32v7 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 for i in kubedge1 kubedge2 hack4easy
 do
    cd helmrepos/$i
