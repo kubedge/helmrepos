@@ -14,13 +14,13 @@ cd kubesim_lte; helm package charts/kubesim-lte-arm64v8/ --app-version $KUBEDGEV
 cd kubesim_epc; helm package charts/kubesim-epc-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
 cd kubesim_nr; helm package charts/kubesim-nr-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
 # 
-# cd kube-rpi; helm package charts/prometheus-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-# cd kube-rpi; helm package charts/kubernetes-dashboard-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-# cd kube-rpi; helm package charts/fluentd-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-# cd kube-rpi; helm package charts/grafana-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-# cd kube-rpi; helm package charts/weave-scope-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-# cd kube-rpi; helm package charts/nats-operator-arm64v8 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
-# cd kube-rpi; helm package charts/nats-streaming-arm64v8 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/prometheus-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/kubernetes-dashboard-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/fluentd-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/grafana-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/weave-scope-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/nats-operator-arm64v8 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+cd kubedge_utils; helm package charts/nats-streaming-arm64v8 --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 for i in kubedge1 kubedge2 hack4easy
 do
    cd helmrepos/$i
