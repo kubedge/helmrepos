@@ -3,9 +3,9 @@ entries:
   fluentd-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-19T03:33:51.294539029Z
+    created: 2018-11-22T20:31:23.894379946Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: 4737b17696c52ce0ffab668b2203fe83a397ee8f6d80097573d85b17b76d34c4
+    digest: ca4311de7dc1547472a8ec9409ae93c33a728e12f0ed07f6a1d86fcd8fba4ce8
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
@@ -21,9 +21,9 @@ entries:
     version: 1.0.0
   grafana-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-19T03:33:51.301971515Z
+    created: 2018-11-22T20:31:23.895518924Z
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 1f8ab2092553b2928702524220cc8d5af43215190ed028818902bc96eef2848f
+    digest: a8b3df3a09c597e83d17f3cce8575a8432e721f7e0a33a10ca7d8d747e6b6e6e
     engine: gotpl
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
@@ -41,9 +41,9 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-19T03:33:51.309619467Z
+    created: 2018-11-22T20:31:23.896289365Z
     description: General-purpose web UI for Kubernetes clusters
-    digest: e5a8cf8cadc2a9b07303474219dc49543c99152d3227513236dc81845a3d61b4
+    digest: 007b7ada24d5ac7d573845a9c6a9cec992df1ef9ac695de6e74da2c746503091
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -60,9 +60,9 @@ entries:
     version: 0.7.5
   nats-operator-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-19T03:33:51.314289998Z
+    created: 2018-11-22T20:31:23.896971Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: 12810a4265bbb7a2b39089804122f590f9fb5d5c6d4f2d551e80ea46d956fab4
+    digest: bea96ae0cfe6d2e0f9b6258e256fb0eae3314698d6a5f8a85084ccc3946506d0
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -83,9 +83,9 @@ entries:
     version: 0.0.1
   nats-streaming-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-19T03:33:51.316887266Z
+    created: 2018-11-22T20:31:23.897335009Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: a7b97a8001aaab25028148ae2b9aa6b0ec9615168dd1322fdb1033cc89be5ac0
+    digest: f184936d83fe005c4a05feb3f5b90f1ddb99e47c787cdb08b6b656c4acbff4be
     home: https://github.com/canhnt/k8s-nats-streaming
     name: nats-streaming-arm32v7
     urls:
@@ -93,9 +93,9 @@ entries:
     version: v0.3.0
   prometheus-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-19T03:33:51.338292074Z
+    created: 2018-11-22T20:31:23.899417625Z
     description: Prometheus is a monitoring system and time series database.
-    digest: 3aa64e76022aa3dc7f6713c4880cbb459113dabfff29fdb3315b02325bd4f411
+    digest: ad92f6a53af74183de01850ba07826c5b09e34b3867eb6bf60fc10b853c877ea
     engine: gotpl
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
@@ -117,9 +117,9 @@ entries:
     version: 7.3.4
   weave-scope-arm32v7:
   - appVersion: 0.1.0
-    created: 2018-11-19T03:33:51.360401615Z
+    created: 2018-11-22T20:31:23.900628829Z
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: a77c91a7526e14992d4020197b17eb7e0ba9c721092a40291228a29d3ff2cea0
+    digest: c474e1fe932e033a18057a31073b6367a93e202de16013e85e2b2d5e1191c457
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -135,4 +135,4 @@ entries:
     urls:
     - weave-scope-arm32v7-0.10.0.tgz
     version: 0.10.0
-generated: 2018-11-19T03:33:51.289392774Z
+generated: 2018-11-22T20:31:23.893291418Z
