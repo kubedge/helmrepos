@@ -3,9 +3,9 @@ entries:
   kubesim-5gc-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-20T03:48:58.165083059Z
+    created: 2018-11-22T20:31:40.344705792Z
     description: A Helm chart for Kubedge Simulator
-    digest: c8a3198f085724e50e27af1f0c5ebba38a45b5c31a5ae8647e6cb98aea46e71f
+    digest: fcf419bf4e5fd4f743fa4818ef7f585d7bf30299def0aedec027db680d99bb50
     name: kubesim-5gc-arm64v8
     urls:
     - kubesim-5gc-arm64v8-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   kubesim-elte-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-20T03:48:58.168735327Z
-    description: A Helm chart for Kubedge Simulator
-    digest: 6b546313a10b17ffba5f92c5245439c251a3ee9ab4c0bfe4b80813cdb8b6046a
+    created: 2018-11-22T20:31:40.345114252Z
+    description: Kubedge eLTE Simulator
+    digest: a92f263a9ea47740a5605936259a30d0b320301fe0648b85febc7be67d5efb13
     name: kubesim-elte-arm64v8
     urls:
     - kubesim-elte-arm64v8-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   kubesim-epc-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-20T03:48:58.172140825Z
+    created: 2018-11-22T20:31:40.345506599Z
     description: A Helm chart for Kubedge Simulator
-    digest: daddfb5b2cfebd0ba4cd5aeccd2f76fad4e5f4fdb87227e764e764d7681503bc
+    digest: 71aa1dcf27ea4c25ddc8d29590cfe83b81455411cc1615e1db990771b9907715
     name: kubesim-epc-arm64v8
     urls:
     - kubesim-epc-arm64v8-0.1.0.tgz
@@ -33,9 +33,9 @@ entries:
   kubesim-lte-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-20T03:48:58.175707416Z
-    description: A Helm chart for Kubedge Simulator
-    digest: 625c1620b813f3fa1bc7b05d44d0f781fe2ae15f10bf6ebaa07e50862849572b
+    created: 2018-11-22T20:31:40.345917149Z
+    description: Kubedge LTE Simulator
+    digest: 236bd05c3cf9f1621982b19e180493aec720f2da2ec81f31f7e82f60a597423a
     name: kubesim-lte-arm64v8
     urls:
     - kubesim-lte-arm64v8-0.1.0.tgz
@@ -43,11 +43,11 @@ entries:
   kubesim-nr-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-20T03:48:58.179302549Z
-    description: A Helm chart for Kubedge Simulator
-    digest: c91cc46a09d72c53bc229db5b62a829cd2f9f3de4c065e0528404c5ddb4b846d
+    created: 2018-11-22T20:31:40.346322363Z
+    description: Kubedge 5G NR Simulator
+    digest: 5902f8b5d392617f7aa0c5663d24606a0eb88e84a365b9d4f6178d52f9280e58
     name: kubesim-nr-arm64v8
     urls:
     - kubesim-nr-arm64v8-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-20T03:48:58.160699442Z
+generated: 2018-11-22T20:31:40.344155931Z
