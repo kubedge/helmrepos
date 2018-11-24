@@ -3,9 +3,9 @@ entries:
   fluentd-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-22T20:30:14.113068326Z
+    created: 2018-11-24T21:43:37.44137907Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: 5c0dd0f0001ce2d63754edc5777d0b6eb2bd54a5f84697e802c84cd33e08bde1
+    digest: 013b36d9fec54ae0262ee2310c2fa351a096c46ded7b52c72061c522b861277d
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
@@ -21,9 +21,9 @@ entries:
     version: 1.0.0
   grafana-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-22T20:30:14.114248425Z
+    created: 2018-11-24T21:43:37.442512026Z
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 90c9e3edd7e60978718849db2ca347727fd8adddd2aa975a40ca6545d6f1a88a
+    digest: 2f06bc0eb6743b1ef5e7e739125565474c70700922d5a08f41fc17b4a780e5ab
     engine: gotpl
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
@@ -41,9 +41,9 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-22T20:30:14.116533601Z
+    created: 2018-11-24T21:43:37.443308548Z
     description: General-purpose web UI for Kubernetes clusters
-    digest: 6450b3aa6df9215843ded3ef871909277f53a39f213828b15b07526e2e499c4e
+    digest: 68949dc7d3db2b018741a9cfb7f3694f2377144856198416a5a1be7a8b3f5889
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -60,9 +60,9 @@ entries:
     version: 0.7.5
   nats-operator-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-22T20:30:14.117196077Z
+    created: 2018-11-24T21:43:37.444007947Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: c2211ad8c5619e4f7dda8d973be995a8524dd947775e4a3c6783b2f190f800cf
+    digest: a4b76b88827d9e7a1468c6b8dd19cad6ba7394b03c8c6ba82c90a8cd10995041
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -83,9 +83,9 @@ entries:
     version: 0.0.1
   nats-streaming-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-22T20:30:14.117554052Z
+    created: 2018-11-24T21:43:37.444361842Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: 33e76dc5ed66ce52e5af3a824719124f1396ff8f02e59bc44ede6b0168fb0f86
+    digest: 6072da0c08c7630eab55345cdd3dcc35d496bd5ce723b9c904ce9c11c5a2cd00
     home: https://github.com/canhnt/k8s-nats-streaming
     name: nats-streaming-amd64
     urls:
@@ -93,9 +93,9 @@ entries:
     version: v0.3.0
   prometheus-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-22T20:30:14.119591333Z
+    created: 2018-11-24T21:43:37.446441154Z
     description: Prometheus is a monitoring system and time series database.
-    digest: 72b2e0369a2de47a0d923bc9ac236993edc3e24de6fdd3b3a257b98b12cda5da
+    digest: fd85ed4ea2717197c08ce0a4e8edeb1f80ffd36bbdc5fa3016b33659d91a3051
     engine: gotpl
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
@@ -117,9 +117,9 @@ entries:
     version: 7.3.4
   weave-scope-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-22T20:30:14.120689009Z
+    created: 2018-11-24T21:43:37.447489556Z
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: 4d8e6db664faa52a76bbfecb87326387d364af867dd1c6ff46d1819bd7e7d550
+    digest: eb7d566eed46d73755ed9de9f74a6877d5435da5f333cca42be2940e6ba5a366
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -135,4 +135,4 @@ entries:
     urls:
     - weave-scope-amd64-0.10.0.tgz
     version: 0.10.0
-generated: 2018-11-22T20:30:14.112164015Z
+generated: 2018-11-24T21:43:37.440502468Z
