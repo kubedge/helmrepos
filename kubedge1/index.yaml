@@ -3,9 +3,9 @@ entries:
   kubedge-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.494942135Z
+    created: 2018-11-25T04:14:44.105872979Z
     description: A Helm chart for Kubernetes
-    digest: 255079259bddc1240713eec2cb26a1c388f5bb6a252696221a714489733dae98
+    digest: 354ab90b6fab490629f32b1c48bde2317ea7215b418f0c050feff9f6fd31e52a
     name: kubedge-amd64
     urls:
     - kubedge-amd64-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   kubeplay-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.495431687Z
+    created: 2018-11-25T04:14:44.106198026Z
     description: A Helm chart for Kubernetes
-    digest: 64bbef9b39024fdb31086eafae8659955542d4ff246fd03f09cf72d5ea78dc14
+    digest: d258fc54972dd0de5493fef0569f8d4421dae86b2ab835dd412f383ab5822162
     name: kubeplay-amd64
     urls:
     - kubeplay-amd64-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   kubesim-linkio-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.495872008Z
+    created: 2018-11-25T04:14:44.106610392Z
     description: A Helm chart for Kubedge Simulator
-    digest: 518aaa69b492be98dfa0a87928c5b13883d56e0b8d32a0f83d0968bbde75794e
+    digest: 970cb534662333e9ae61271f1eb52844a53be1dc9afcdf8e3069827bb9bf7b16
     name: kubesim-linkio-amd64
     urls:
     - kubesim-linkio-amd64-0.1.0.tgz
@@ -33,9 +33,9 @@ entries:
   kubesim-nats-pub-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.496308048Z
+    created: 2018-11-25T04:14:44.107171843Z
     description: A Helm chart for Kubedge Simulator
-    digest: 346ee413cfde6d53f0b89be42458855eeee4a125c97053f1976eb8de71df83da
+    digest: ff943b036bdd222bf05b5ae5fa4d84ecb476eff612251931538bae7a0f16e39f
     name: kubesim-nats-pub-amd64
     urls:
     - kubesim-nats-pub-amd64-0.1.0.tgz
@@ -43,11 +43,11 @@ entries:
   kubesim-nats-sub-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.496844538Z
+    created: 2018-11-25T04:14:44.107633493Z
     description: A Helm chart for Kubedge Simulator
-    digest: 1b2068615bb0559c8428108e8ad2def365e62e6412895d6f328c55e2c51cd285
+    digest: e19f8bc016a3016dda1c50c6614f7e772aeeeee06945b5634526fd51f6dc8fbf
     name: kubesim-nats-sub-amd64
     urls:
     - kubesim-nats-sub-amd64-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-25T02:33:14.494441204Z
+generated: 2018-11-25T04:14:44.105207184Z

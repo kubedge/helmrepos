@@ -3,9 +3,9 @@ entries:
   fluentd-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.596255687Z
+    created: 2018-11-25T04:14:44.207509146Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: 2b3a0bfef82a7d67ed0de9c36dda949769bbabbe38f32b9b7f5599417fed0155
+    digest: 7be997b91cef25f44b0e0425e93dd0143fd16ee6fbd7e2830d6be8f45d113a37
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
@@ -21,9 +21,9 @@ entries:
     version: 1.0.0
   grafana-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.597658259Z
+    created: 2018-11-25T04:14:44.208914775Z
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: df16cd7269c0d237989f948f815a4e93c1896b7414451582d251491c8767f6cf
+    digest: fc3851225925ac7fa4015fcf00f07a84efb3665f042158dbde08ebb12cc543b4
     engine: gotpl
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
@@ -41,9 +41,9 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.59849759Z
+    created: 2018-11-25T04:14:44.209691621Z
     description: General-purpose web UI for Kubernetes clusters
-    digest: e972ccc6f6f40eb869be063ae52ba543cbd016dc1b4e47c564cda12ffbc32bcb
+    digest: ce2fb462e7e8cf25151291ce1c1881c56bffe40aef44f5f4876da996cb0e0080
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -60,9 +60,9 @@ entries:
     version: 0.7.5
   nats-operator-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.599269834Z
+    created: 2018-11-25T04:14:44.210683007Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: 4bfb3813eea76fe5606449b890887100b6150d29d5af619b0fd3a6d1108237fd
+    digest: 439bcc0cb926cd03749d2aaaeb090dde6de7204971be3f56df150d1ce979f350
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -83,9 +83,9 @@ entries:
     version: 0.0.1
   nats-streaming-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.599646721Z
+    created: 2018-11-25T04:14:44.211136859Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: 5a706c55df7825a7ba9334b24e68f6e757f06a307511c720d789567c1a6062b8
+    digest: b3ba8767668e388206ab1f3582f19dfaf7ad1d3005f5331285680513dfff4211
     home: https://github.com/canhnt/k8s-nats-streaming
     name: nats-streaming-amd64
     urls:
@@ -93,9 +93,9 @@ entries:
     version: v0.3.0
   prometheus-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.602282054Z
+    created: 2018-11-25T04:14:44.214050974Z
     description: Prometheus is a monitoring system and time series database.
-    digest: 75a79edc90909f34e5dcb7ef815785b0c54487f43d469f5e443485363039790d
+    digest: db547706837ca3bd7190efa7a2af4ff04f34ebd2838d044ac0bbb7267a0cb5f4
     engine: gotpl
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
@@ -117,9 +117,9 @@ entries:
     version: 7.3.4
   weave-scope-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:33:14.603739643Z
+    created: 2018-11-25T04:14:44.215527983Z
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: 8081afff59ceb970f37086b34b85ffdb6f25af5fdbecb0a11472c1e48201a76f
+    digest: 2309c3298aec2fff3470e9dc572e1f05aaa460df0c8011d29fa84da9d6c85ee7
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -135,4 +135,4 @@ entries:
     urls:
     - weave-scope-amd64-0.10.0.tgz
     version: 0.10.0
-generated: 2018-11-25T02:33:14.595482927Z
+generated: 2018-11-25T04:14:44.206678752Z
