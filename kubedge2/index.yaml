@@ -3,9 +3,9 @@ entries:
   fluentd-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T02:20:30.425307693Z
+    created: 2018-11-25T02:33:14.596255687Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: 10251617adf38605763a644b8be9d7dd455781e815fd3cfa7813c5f367ad6af8
+    digest: 2b3a0bfef82a7d67ed0de9c36dda949769bbabbe38f32b9b7f5599417fed0155
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
@@ -21,9 +21,9 @@ entries:
     version: 1.0.0
   grafana-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:20:30.427174079Z
+    created: 2018-11-25T02:33:14.597658259Z
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 53088781261c8e3f0e7faa005c62e84498de7354a1aacc32ee2bc6598766bab5
+    digest: df16cd7269c0d237989f948f815a4e93c1896b7414451582d251491c8767f6cf
     engine: gotpl
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
@@ -41,9 +41,9 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:20:30.428360836Z
+    created: 2018-11-25T02:33:14.59849759Z
     description: General-purpose web UI for Kubernetes clusters
-    digest: 9e5a393956fc59d078f458ffd3b8c4e4097eb563fba76df944ec697e0fd5fff5
+    digest: e972ccc6f6f40eb869be063ae52ba543cbd016dc1b4e47c564cda12ffbc32bcb
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -60,9 +60,9 @@ entries:
     version: 0.7.5
   nats-operator-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:20:30.429455711Z
+    created: 2018-11-25T02:33:14.599269834Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: 9ea950be076e25db29dabef35aedec87384b0ff9662a5ff885f4093785b9ddf2
+    digest: 4bfb3813eea76fe5606449b890887100b6150d29d5af619b0fd3a6d1108237fd
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -83,9 +83,9 @@ entries:
     version: 0.0.1
   nats-streaming-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:20:30.429869254Z
+    created: 2018-11-25T02:33:14.599646721Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: b5923c4ee72728ee4a29c2c85caba141fd98f53ca26df09eec49fdf30a507784
+    digest: 5a706c55df7825a7ba9334b24e68f6e757f06a307511c720d789567c1a6062b8
     home: https://github.com/canhnt/k8s-nats-streaming
     name: nats-streaming-amd64
     urls:
@@ -93,9 +93,9 @@ entries:
     version: v0.3.0
   prometheus-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:20:30.432222595Z
+    created: 2018-11-25T02:33:14.602282054Z
     description: Prometheus is a monitoring system and time series database.
-    digest: dbaebc9b680f2ffc4ae4f7c507c541ad4d9c934a2e70bea38b2b0304bef64c7e
+    digest: 75a79edc90909f34e5dcb7ef815785b0c54487f43d469f5e443485363039790d
     engine: gotpl
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
@@ -117,9 +117,9 @@ entries:
     version: 7.3.4
   weave-scope-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T02:20:30.433461834Z
+    created: 2018-11-25T02:33:14.603739643Z
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: ac35297c53396920033ecb09632aa40c92e45794114663c98eb8f472ae8dde16
+    digest: 8081afff59ceb970f37086b34b85ffdb6f25af5fdbecb0a11472c1e48201a76f
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -135,4 +135,4 @@ entries:
     urls:
     - weave-scope-amd64-0.10.0.tgz
     version: 0.10.0
-generated: 2018-11-25T02:20:30.423849916Z
+generated: 2018-11-25T02:33:14.595482927Z
