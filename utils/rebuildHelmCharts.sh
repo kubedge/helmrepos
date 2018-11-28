@@ -13,6 +13,7 @@ cd kubesim_elte; helm package charts/kubesim-elte-arm64v8/ --app-version $KUBEDG
 cd kubesim_lte; helm package charts/kubesim-lte-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
 cd kubesim_epc; helm package charts/kubesim-epc-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
 cd kubesim_nr; helm package charts/kubesim-nr-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
+cd kubedge_utils; helm package charts/kubedge-arpscan-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/hack4easy/; cd $GOODPATH
 # 
 cd kubedge_utils; helm package charts/prometheus-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 cd kubedge_utils; helm package charts/kubernetes-dashboard-arm64v8/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
