@@ -3,9 +3,9 @@ entries:
   fluentd-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-11-25T04:14:44.207509146Z
+    created: 2018-11-28T07:34:29.042084265Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: 7be997b91cef25f44b0e0425e93dd0143fd16ee6fbd7e2830d6be8f45d113a37
+    digest: 816eca68de89366ceba4633c98da64a92a754d9c2ea8ba714f1186ff691ad553
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
@@ -21,9 +21,9 @@ entries:
     version: 1.0.0
   grafana-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T04:14:44.208914775Z
+    created: 2018-11-28T07:34:29.043280827Z
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: fc3851225925ac7fa4015fcf00f07a84efb3665f042158dbde08ebb12cc543b4
+    digest: d9d8a83264dc42e50bb12d174cd425077f5bee6adde6956fd14891d1565e352e
     engine: gotpl
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
@@ -41,9 +41,9 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T04:14:44.209691621Z
+    created: 2018-11-28T07:34:29.044138846Z
     description: General-purpose web UI for Kubernetes clusters
-    digest: ce2fb462e7e8cf25151291ce1c1881c56bffe40aef44f5f4876da996cb0e0080
+    digest: 66d1bb8b70692db28ecd72b5d8db93df16d0efef65ea558e808152a675a34e52
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -60,9 +60,9 @@ entries:
     version: 0.7.5
   nats-operator-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T04:14:44.210683007Z
+    created: 2018-11-28T07:34:29.044825117Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: 439bcc0cb926cd03749d2aaaeb090dde6de7204971be3f56df150d1ce979f350
+    digest: d53d60b2f9a4c1aa477a39356b8050cb76d7384de247328b73208b1473d85406
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -83,9 +83,9 @@ entries:
     version: 0.0.1
   nats-streaming-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T04:14:44.211136859Z
+    created: 2018-11-28T07:34:29.045257912Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: b3ba8767668e388206ab1f3582f19dfaf7ad1d3005f5331285680513dfff4211
+    digest: 59820316501f5423ff4ebce0c95ee90d234513c09f25c594ee872df3507383b6
     home: https://github.com/canhnt/k8s-nats-streaming
     name: nats-streaming-amd64
     urls:
@@ -93,9 +93,9 @@ entries:
     version: v0.3.0
   prometheus-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T04:14:44.214050974Z
+    created: 2018-11-28T07:34:29.047528113Z
     description: Prometheus is a monitoring system and time series database.
-    digest: db547706837ca3bd7190efa7a2af4ff04f34ebd2838d044ac0bbb7267a0cb5f4
+    digest: 86fed819d2feef82471007e111fc1d2c040edda8c62ee3b75f6c45de3748ac9b
     engine: gotpl
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
@@ -117,9 +117,9 @@ entries:
     version: 7.3.4
   weave-scope-amd64:
   - appVersion: 0.1.0
-    created: 2018-11-25T04:14:44.215527983Z
+    created: 2018-11-28T07:34:29.048646762Z
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: 2309c3298aec2fff3470e9dc572e1f05aaa460df0c8011d29fa84da9d6c85ee7
+    digest: c97cb8cddbd8105e2c7c8ed794780074900298730e41782f5de75ef5bffd929d
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -135,4 +135,4 @@ entries:
     urls:
     - weave-scope-amd64-0.10.0.tgz
     version: 0.10.0
-generated: 2018-11-25T04:14:44.206678752Z
+generated: 2018-11-28T07:34:29.041259115Z
