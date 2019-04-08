@@ -3,9 +3,9 @@ entries:
   fluentd-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:40:49.434607213Z
+    created: 2019-04-08T06:12:17.856846328Z
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: 9af3a77da44b6b0ffa8da9864176152a487d491034aaf7ce2c2ac08c6638b10a
+    digest: ed5523722cd1e361a1141e9043a8a061f51d6a80be43c386f5d189f99f596ca1
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
@@ -21,9 +21,9 @@ entries:
     version: 1.0.0
   grafana-arm64v8:
   - appVersion: 0.1.0
-    created: 2018-12-02T20:40:49.435912483Z
+    created: 2019-04-08T06:12:17.858242471Z
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: a134e8f6fe6cceefc2f44b1416efc775b2d3aa26caf9ecc6cec502c48d8f643a
+    digest: 3b679dc244cd682951b6a7c6cfbd12dc31446325d94818773c0e9a9d69adc6f0
     engine: gotpl
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
@@ -41,9 +41,9 @@ entries:
     version: 1.17.4
   kubernetes-dashboard-arm64v8:
   - appVersion: 0.1.0
-    created: 2018-12-02T20:40:49.436758801Z
+    created: 2019-04-08T06:12:17.858954618Z
     description: General-purpose web UI for Kubernetes clusters
-    digest: 6ac89bb6eaae80c02cde945686b2be8aa4db5ea4a298aca483ca8ab00bb49942
+    digest: bc450734b4ed8d2169f83cac7b324f02b9205bf30c5d73d47b38a47f7d8d7eb5
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -60,9 +60,9 @@ entries:
     version: 0.7.5
   nats-operator-arm64v8:
   - appVersion: 0.1.0
-    created: 2018-12-02T20:40:49.437547346Z
+    created: 2019-04-08T06:12:17.859829715Z
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: ad108481d50dcee8f4ab1c139f15582a56aa572ab149f0fee68e8dc2ac2e66f6
+    digest: efb4fa7ab549997b2570a499a6d61cc8bfd27fd4f3d359472bc4c5d2453789cc
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -83,9 +83,9 @@ entries:
     version: 0.0.1
   nats-streaming-arm64v8:
   - appVersion: 0.1.0
-    created: 2018-12-02T20:40:49.437940635Z
+    created: 2019-04-08T06:12:17.860069131Z
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: 900bd8892d7f406faa8f7884b878b1dd7d74373639d352fc7c385ef01a8522e6
+    digest: ee4121e64d7a84b7ffa2455a5db5c8e083af7ce956ee72331d61cf0f3dc3b398
     home: https://github.com/canhnt/k8s-nats-streaming
     name: nats-streaming-arm64v8
     urls:
@@ -93,9 +93,9 @@ entries:
     version: v0.3.0
   prometheus-arm64v8:
   - appVersion: 0.1.0
-    created: 2018-12-02T20:40:49.440288154Z
+    created: 2019-04-08T06:12:17.861562503Z
     description: Prometheus is a monitoring system and time series database.
-    digest: 542b41b7518414f0fbad97d7d6bf05d918ea02eb4ba4abe001f5ed1a2bc2b78c
+    digest: 2af632a5db5afa96cc7ad3cbb6ff25a47bf3b431e1d1e711b0d86a10a77df443
     engine: gotpl
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
@@ -117,9 +117,9 @@ entries:
     version: 7.3.4
   weave-scope-arm64v8:
   - appVersion: 0.1.0
-    created: 2018-12-02T20:40:49.441400517Z
+    created: 2019-04-08T06:12:17.862368559Z
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: 10e066ef578ec7dd236f5749118ffbdf0249311bf3a7f74027d1908fbcdb78ee
+    digest: 4f02806f289a076279c97c963ffa29c41cbbf7a98b0b26db2cc81a8203ab564f
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -135,4 +135,4 @@ entries:
     urls:
     - weave-scope-arm64v8-0.10.0.tgz
     version: 0.10.0
-generated: 2018-12-02T20:40:49.433777478Z
+generated: 2019-04-08T06:12:17.856217263Z
