@@ -3,9 +3,9 @@ entries:
   kubedge-arpscan-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:41:23.701078568Z
+    created: 2019-04-08T06:12:43.199830642Z
     description: Kubedge ARPSCAN Agent
-    digest: d2e947016c7aa34750e918bdff959f96b43138b31115124c2d4408010508f8c2
+    digest: b39b3e4b79c7aa6058cb4a5778a99ad5574a578e00cd178208e7bd8b0919b303
     name: kubedge-arpscan-amd64
     urls:
     - kubedge-arpscan-amd64-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   kubesim-5gc-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:41:23.70155474Z
+    created: 2019-04-08T06:12:43.20009225Z
     description: A Helm chart for Kubedge Simulator
-    digest: d5cb7fe5bbe8aa3c7d93072efdb63cf5ee687cbd04d879b5655b25c326cc0df9
+    digest: 2d04c7d4ddc730270e930e987f9ab783fa80b422d1bcd96b4ce262e066dbd1f6
     name: kubesim-5gc-amd64
     urls:
     - kubesim-5gc-amd64-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   kubesim-elte-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:41:23.70202445Z
+    created: 2019-04-08T06:12:43.200441943Z
     description: Kubedge eLTE Simulator
-    digest: e28911290b12316fe238e5ae23abad43e649841462b24da6681581c031440aff
+    digest: 2e8859f10a2b617c7e1eb20785f58e7144f49968c1d2b85ad527b3b566a06adf
     name: kubesim-elte-amd64
     urls:
     - kubesim-elte-amd64-0.1.0.tgz
@@ -33,9 +33,9 @@ entries:
   kubesim-epc-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:41:23.702360597Z
+    created: 2019-04-08T06:12:43.200699395Z
     description: A Helm chart for Kubedge Simulator
-    digest: e66f677c1f1d4c28f416b3fb36fcf9a130561a24fbe18a3f830a6aadd2fb3638
+    digest: 1577e1f9c7437de69a2040acf4ddafa2bff3ba77955c660e08b5299b31797ebb
     name: kubesim-epc-amd64
     urls:
     - kubesim-epc-amd64-0.1.0.tgz
@@ -43,7 +43,7 @@ entries:
   kubesim-linkio-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:41:23.704239068Z
+    created: 2019-04-08T06:12:43.20179556Z
     description: A Helm chart for Kubedge Simulator
     digest: 0dd1f01dc8a0d70eedb083c7121ee2f7e8015a6a0c6dcd4a943aac8bd0090a1c
     name: kubesim-linkio-amd64
@@ -53,9 +53,9 @@ entries:
   kubesim-lte-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:41:23.704686358Z
+    created: 2019-04-08T06:12:43.202063116Z
     description: Kubedge LTE Simulator
-    digest: 1aef2159839106877807244ab3441761f9ef5505f29c7c3154bff54b19245569
+    digest: 2de8d2ddb5ab0ddd319d543efa65465b7fa5b28b4f55484564d05307378c2937
     name: kubesim-lte-amd64
     urls:
     - kubesim-lte-amd64-0.1.0.tgz
@@ -63,11 +63,11 @@ entries:
   kubesim-nr-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-12-02T20:41:23.705171579Z
+    created: 2019-04-08T06:12:43.202447365Z
     description: Kubedge 5G NR Simulator
-    digest: 3a19e466eb2a78f49312d845076d60042bb47abbbbd1a9994d1d59f09fc8eff7
+    digest: 3dbe9f5526c08d91f037fb5858e93e6882e3975ac12a65d43d6b978e44c5a9ba
     name: kubesim-nr-amd64
     urls:
     - kubesim-nr-amd64-0.1.0.tgz
     version: 0.1.0
-generated: 2018-12-02T20:41:23.700627393Z
+generated: 2019-04-08T06:12:43.199516019Z
