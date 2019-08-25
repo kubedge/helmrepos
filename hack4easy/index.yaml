@@ -3,9 +3,9 @@ entries:
   kubedge-arpscan-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:33:46.878693019Z
+    created: 2019-08-25T23:35:15.419896052Z
     description: Kubedge ARPSCAN Agent
-    digest: 07cde8630bf8a738c217bb5f559662deabc322254334f2605240ad36fe814638
+    digest: df2e654c72aacb5f1a8feb58bf8858c74f2369b7cdfd07d57588a1353c2cc70e
     name: kubedge-arpscan-arm32v7
     urls:
     - kubedge-arpscan-arm32v7-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   kubesim-5gc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:33:46.878992425Z
+    created: 2019-08-25T23:35:15.420171063Z
     description: A Helm chart for Kubedge Simulator
-    digest: fed197efa35f6f82e78b7ecc2a7a03bc71eba44bc324c545809e2df14d0a5341
+    digest: 9ea10f7bb1273da27375e53f4e5da7118ecd91d500b85029913bb028fd393a8b
     name: kubesim-5gc-arm32v7
     urls:
     - kubesim-5gc-arm32v7-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   kubesim-elte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:33:46.879344112Z
+    created: 2019-08-25T23:35:15.42046754Z
     description: Kubedge eLTE Simulator
-    digest: b51b92a5f0e9f44661054bf9ec0d09db550716a81e4dde036ba7e4ae65bd0de4
+    digest: 3ef635773b646ac418b590cce6c00a28a3dc15643447e88454821e252df9f076
     name: kubesim-elte-arm32v7
     urls:
     - kubesim-elte-arm32v7-0.1.0.tgz
@@ -33,9 +33,9 @@ entries:
   kubesim-epc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:33:46.87965454Z
+    created: 2019-08-25T23:35:15.42088848Z
     description: A Helm chart for Kubedge Simulator
-    digest: 635abb73e1ef1b7ea9636495e5ff727ae0af629e0ed3ecc6ee93dbe2b6662c78
+    digest: 751837aa83320f626db55a2f56be63108d2778277adb28e0980f89b897ce2071
     name: kubesim-epc-arm32v7
     urls:
     - kubesim-epc-arm32v7-0.1.0.tgz
@@ -43,9 +43,9 @@ entries:
   kubesim-lte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:33:46.879950535Z
+    created: 2019-08-25T23:35:15.421166738Z
     description: Kubedge LTE Simulator
-    digest: c162f8950c18747e93b0186bc2b69620110ec1111e8a73d1d656733c0e9c1c25
+    digest: 373221354bf995e44fc079698280a18cc32be457fb6613955a50d2d845bcffe1
     name: kubesim-lte-arm32v7
     urls:
     - kubesim-lte-arm32v7-0.1.0.tgz
@@ -53,11 +53,11 @@ entries:
   kubesim-nr-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:33:46.880279189Z
+    created: 2019-08-25T23:35:15.421441761Z
     description: Kubedge 5G NR Simulator
-    digest: 34a2db1c8c88d2c8a2385f9525122d6f31d15cc8e044703e10f228f1a9e4f7e7
+    digest: cca6e169767b4145ee898c20ce7cd4af6c9b2a2c1d3a9fbf5cdb7523f09fc8c4
     name: kubesim-nr-arm32v7
     urls:
     - kubesim-nr-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: 2019-08-25T23:33:46.878346343Z
+generated: 2019-08-25T23:35:15.419505425Z
