@@ -3,7 +3,7 @@ entries:
   fluentd-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:56:01.746132197Z"
+    created: "2023-03-13T15:28:30.777812939Z"
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
     digest: 0f66b167fed3072a0c861b10d74d7f0a8ca82f57cc581e569bde5f0c787a0a74
     home: https://www.fluentd.org/
@@ -22,7 +22,7 @@ entries:
   grafana-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:56:01.747679578Z"
+    created: "2023-03-13T15:28:30.781233059Z"
     description: The leading tool for querying and visualizing time series and metrics.
     digest: 08891961dbf38bae1bd683215dd2dec99440d4619f3bd519ebf3c4e5ed761950
     home: https://grafana.net
@@ -42,7 +42,7 @@ entries:
   kubernetes-dashboard-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:56:01.748895794Z"
+    created: "2023-03-13T15:28:30.782032114Z"
     description: General-purpose web UI for Kubernetes clusters
     digest: 751bdbbbd6264807e5debeda21a2c077bed466fda6652d0d9e7402ef7a63163e
     home: https://github.com/kubernetes/dashboard
@@ -62,7 +62,7 @@ entries:
   nats-operator-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:56:01.750006002Z"
+    created: "2023-03-13T15:28:30.78314839Z"
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
     digest: 4f56d5c29b46a6998d91b255d8c1c81c14339823ebb0aca42a70354d1ba51a09
     home: https://github.com/nats-io/nats-operator
@@ -86,7 +86,7 @@ entries:
   nats-streaming-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:56:01.750298842Z"
+    created: "2023-03-13T15:28:30.785367898Z"
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
     digest: be7954675af6dda22b8f9e39ea3eb1a8681073ebdbf651d06b63c8d39b1d706c
     home: https://github.com/canhnt/k8s-nats-streaming
@@ -97,7 +97,7 @@ entries:
   prometheus-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:56:01.752894852Z"
+    created: "2023-03-13T15:28:30.790424257Z"
     description: Prometheus is a monitoring system and time series database.
     digest: 36562112fcbc2e3504ff633794aad5cfbf7d2486acad056d47e347e31c30bacf
     home: https://prometheus.io/
@@ -120,7 +120,7 @@ entries:
   weave-scope-amd64:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:56:01.753539597Z"
+    created: "2023-03-13T15:28:30.79359012Z"
     description: A Helm chart for the Weave Scope cluster visualizer.
     digest: f3f73dedb38b6c32fc3daeaa8ffc4d8e4459d26dc4a8b2dea7e607424b837942
     home: https://www.weave.works/oss/scope/
@@ -138,4 +138,4 @@ entries:
     urls:
     - weave-scope-amd64-0.10.0.tgz
     version: 0.10.0
-generated: "2023-03-13T14:56:01.743297868Z"
+generated: "2023-03-13T15:28:30.776227988Z"
