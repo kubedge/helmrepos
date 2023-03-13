@@ -3,7 +3,7 @@ entries:
   kubedge-arpscan-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:57:03.239741538Z"
+    created: "2023-03-13T15:28:10.53288482Z"
     description: Kubedge ARPSCAN Agent
     digest: df2e654c72aacb5f1a8feb58bf8858c74f2369b7cdfd07d57588a1353c2cc70e
     name: kubedge-arpscan-arm32v7
@@ -13,7 +13,7 @@ entries:
   kubesim-5gc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:57:03.240073236Z"
+    created: "2023-03-13T15:28:10.533251969Z"
     description: A Helm chart for Kubedge Simulator
     digest: 9ea10f7bb1273da27375e53f4e5da7118ecd91d500b85029913bb028fd393a8b
     name: kubesim-5gc-arm32v7
@@ -23,7 +23,7 @@ entries:
   kubesim-elte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:57:03.240687063Z"
+    created: "2023-03-13T15:28:10.533547192Z"
     description: Kubedge eLTE Simulator
     digest: 3ef635773b646ac418b590cce6c00a28a3dc15643447e88454821e252df9f076
     name: kubesim-elte-arm32v7
@@ -33,7 +33,7 @@ entries:
   kubesim-epc-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:57:03.241000291Z"
+    created: "2023-03-13T15:28:10.533826633Z"
     description: A Helm chart for Kubedge Simulator
     digest: 751837aa83320f626db55a2f56be63108d2778277adb28e0980f89b897ce2071
     name: kubesim-epc-arm32v7
@@ -43,7 +43,7 @@ entries:
   kubesim-lte-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:57:03.241297759Z"
+    created: "2023-03-13T15:28:10.534132342Z"
     description: Kubedge LTE Simulator
     digest: 373221354bf995e44fc079698280a18cc32be457fb6613955a50d2d845bcffe1
     name: kubesim-lte-arm32v7
@@ -53,11 +53,11 @@ entries:
   kubesim-nr-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T14:57:03.241617327Z"
+    created: "2023-03-13T15:28:10.534382131Z"
     description: Kubedge 5G NR Simulator
     digest: cca6e169767b4145ee898c20ce7cd4af6c9b2a2c1d3a9fbf5cdb7523f09fc8c4
     name: kubesim-nr-arm32v7
     urls:
     - kubesim-nr-arm32v7-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-13T14:57:03.236686929Z"
+generated: "2023-03-13T15:28:10.53104112Z"
