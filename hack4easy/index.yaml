@@ -3,7 +3,7 @@ entries:
   kubedge-arpscan-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.745923914Z
+    created: "2023-03-13T14:57:55.639919963Z"
     description: Kubedge ARPSCAN Agent
     digest: ca274c397ec4fc74cc35b407303153be42911f1eb5378e9551b1f5214aa069bb
     name: kubedge-arpscan-arm64v8
@@ -13,7 +13,7 @@ entries:
   kubesim-5gc-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.746337136Z
+    created: "2023-03-13T14:57:55.640481288Z"
     description: A Helm chart for Kubedge Simulator
     digest: 4ae30034a39bcf7fac34d3eee22f0f675524d672f560c09b4c0e5711891e4493
     name: kubesim-5gc-arm64v8
@@ -23,7 +23,7 @@ entries:
   kubesim-elte-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.746702964Z
+    created: "2023-03-13T14:57:55.640763644Z"
     description: Kubedge eLTE Simulator
     digest: 5733793ed81dd03ee3456e50b69b6c9794cbf37cfb02fb6bb95850fa08474c07
     name: kubesim-elte-arm64v8
@@ -33,7 +33,7 @@ entries:
   kubesim-epc-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.746999442Z
+    created: "2023-03-13T14:57:55.641029462Z"
     description: A Helm chart for Kubedge Simulator
     digest: 7a9ec461295057d7b952cea0cb6fe519a0349885af372f691f089f5e3ee5798b
     name: kubesim-epc-arm64v8
@@ -43,7 +43,7 @@ entries:
   kubesim-lte-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.747297396Z
+    created: "2023-03-13T14:57:55.641318185Z"
     description: Kubedge LTE Simulator
     digest: d19d136c15e60f6e1bb7831c57ca253e95caec2fc49fa0c68911030e4b991377
     name: kubesim-lte-arm64v8
@@ -53,11 +53,11 @@ entries:
   kubesim-nr-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.7476667Z
+    created: "2023-03-13T14:57:55.642032677Z"
     description: Kubedge 5G NR Simulator
     digest: d88f0b4256c5ea5b2e3d2e481ca9584eba7ea8031b3669325368f82db6be55db
     name: kubesim-nr-arm64v8
     urls:
     - kubesim-nr-arm64v8-0.1.0.tgz
     version: 0.1.0
-generated: 2019-08-25T23:36:55.74549719Z
+generated: "2023-03-13T14:57:55.639342838Z"

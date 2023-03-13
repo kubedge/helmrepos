@@ -3,7 +3,7 @@ entries:
   kubedge-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.615116018Z
+    created: "2023-03-13T14:57:55.486103574Z"
     description: A Helm chart for Kubernetes
     digest: 774bf164f009b8e596a88e539d3ff885a8c6049d696a52b5f8100e36a3a50382
     name: kubedge-arm64v8
@@ -13,7 +13,7 @@ entries:
   kubeplay-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.615408839Z
+    created: "2023-03-13T14:57:55.487166742Z"
     description: A Helm chart for Kubernetes
     digest: b6b7e2d6f3e8f5105b5b3ddfc5b697328b407b546b67bd2a3ac67580ec8c4297
     name: kubeplay-arm64v8
@@ -23,7 +23,7 @@ entries:
   kubesim-blinkt-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.615709931Z
+    created: "2023-03-13T14:57:55.488468765Z"
     description: A Helm chart for Kubedge Simulator
     digest: a547bc0ccc5c0f9674bda66277aaebd49f42ca22f59173eab28d6640370a7c80
     name: kubesim-blinkt-arm64v8
@@ -33,7 +33,7 @@ entries:
   kubesim-linkio-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.61596164Z
+    created: "2023-03-13T14:57:55.489351753Z"
     description: A Helm chart for Kubedge Simulator
     digest: a6c0db2b1586baa8fe63b84309b16a09126d0a1961ef99c04d892b4dc5e76517
     name: kubesim-linkio-arm64v8
@@ -43,7 +43,7 @@ entries:
   kubesim-nats-pub-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.616304323Z
+    created: "2023-03-13T14:57:55.490336685Z"
     description: A Helm chart for Kubedge Simulator
     digest: 3571788030ffd00d7b537969371ca6726c409b962f5fd01d2293fdd7cafdcf58
     name: kubesim-nats-pub-arm64v8
@@ -53,11 +53,11 @@ entries:
   kubesim-nats-sub-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:36:55.61658039Z
+    created: "2023-03-13T14:57:55.491155082Z"
     description: A Helm chart for Kubedge Simulator
     digest: 0aab301cead774925c071d13ebbbb6d32b1e543202487984778ed371d7592882
     name: kubesim-nats-sub-arm64v8
     urls:
     - kubesim-nats-sub-arm64v8-0.1.0.tgz
     version: 0.1.0
-generated: 2019-08-25T23:36:55.614747603Z
+generated: "2023-03-13T14:57:55.481586733Z"
