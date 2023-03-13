@@ -3,7 +3,7 @@ entries:
   fluentd-arm32v7:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2019-08-25T23:35:14.848401462Z
+    created: "2023-03-13T14:57:03.160997325Z"
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
     digest: 5d18f1159c9e005d5a7b06d7c8120c9b1104e08597fc5e88f6086908f9522add
     home: https://www.fluentd.org/
@@ -20,11 +20,11 @@ entries:
     - fluentd-arm32v7-1.0.0.tgz
     version: 1.0.0
   grafana-arm32v7:
-  - appVersion: 0.1.0
-    created: 2019-08-25T23:35:14.849230329Z
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T14:57:03.161938002Z"
     description: The leading tool for querying and visualizing time series and metrics.
     digest: 03866fb63e4ed13ae43577341ce7132c16aed05c9e6be1d18ee7a03de3a5ff66
-    engine: gotpl
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
     kubeVersion: ^1.8.0-0
@@ -40,8 +40,9 @@ entries:
     - grafana-arm32v7-1.17.4.tgz
     version: 1.17.4
   kubernetes-dashboard-arm32v7:
-  - appVersion: 0.1.0
-    created: 2019-08-25T23:35:14.849776391Z
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T14:57:03.162414847Z"
     description: General-purpose web UI for Kubernetes clusters
     digest: 9f826e7a542b212f8b6b4ba9827977b6d3ffb0797031fc73d74343f28f920c2e
     home: https://github.com/kubernetes/dashboard
@@ -59,8 +60,9 @@ entries:
     - kubernetes-dashboard-arm32v7-0.7.5.tgz
     version: 0.7.5
   nats-operator-arm32v7:
-  - appVersion: 0.1.0
-    created: 2019-08-25T23:35:14.850273455Z
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T14:57:03.162863116Z"
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
     digest: cb18215398670e02fdb0bb668078241668a977f4d552dd59bdfab0fb39d9434b
     home: https://github.com/nats-io/nats-operator
@@ -82,8 +84,9 @@ entries:
     - nats-operator-arm32v7-0.0.1.tgz
     version: 0.0.1
   nats-streaming-arm32v7:
-  - appVersion: 0.1.0
-    created: 2019-08-25T23:35:14.850574696Z
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T14:57:03.1632793Z"
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
     digest: e729c06bba67317e8830a721899c35cafb61f86d6892b03863d2beb473cec8f5
     home: https://github.com/canhnt/k8s-nats-streaming
@@ -92,11 +95,11 @@ entries:
     - nats-streaming-arm32v7-v0.3.0.tgz
     version: v0.3.0
   prometheus-arm32v7:
-  - appVersion: 0.1.0
-    created: 2019-08-25T23:35:14.85212471Z
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T14:57:03.166437895Z"
     description: Prometheus is a monitoring system and time series database.
     digest: 036ea5099f82cbe6ea3a859762181cf91bd86ec1dd5777be0bc16b6b8a519d38
-    engine: gotpl
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     maintainers:
@@ -111,13 +114,13 @@ entries:
     - https://github.com/prometheus/pushgateway
     - https://github.com/prometheus/node_exporter
     - https://github.com/kubernetes/kube-state-metrics
-    tillerVersion: '>=2.8.0'
     urls:
     - prometheus-arm32v7-7.3.4.tgz
     version: 7.3.4
   weave-scope-arm32v7:
-  - appVersion: 0.1.0
-    created: 2019-08-25T23:35:14.853491982Z
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T14:57:03.16761797Z"
     description: A Helm chart for the Weave Scope cluster visualizer.
     digest: 48e888edb9a083192025d01bdabb401172820e7f4566ae44efd446d245e97dff
     home: https://www.weave.works/oss/scope/
@@ -135,4 +138,4 @@ entries:
     urls:
     - weave-scope-arm32v7-0.10.0.tgz
     version: 0.10.0
-generated: 2019-08-25T23:35:14.847840309Z
+generated: "2023-03-13T14:57:03.159613919Z"
