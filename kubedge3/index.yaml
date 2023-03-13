@@ -1,3 +1,71 @@
 apiVersion: v1
-entries: {}
-generated: 2018-10-06T21:26:45.491215834-05:00
+entries:
+  kubedge:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T16:37:30.534155402Z"
+    description: A Helm chart for Kubernetes
+    digest: 86728321dda487eeff1f8c54b239d4f3dcee42fbf6737559b458a0ab46bdbb58
+    name: kubedge
+    urls:
+    - kubedge-0.1.0.tgz
+    version: 0.1.0
+  kubedge-arpscan-operator:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T16:37:30.536940056Z"
+    description: Kubedge Arpscan Operator
+    digest: 0edb4329c93935acdbb063f66d0f4114385f2fbd422e0c79d1c8444aa9786866
+    maintainers:
+    - name: Kubedge Authors
+    name: kubedge-arpscan-operator
+    urls:
+    - kubedge-arpscan-operator-0.1.0.tgz
+    version: 0.1.0
+  kubedge-ecds-operator:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T16:37:30.552730793Z"
+    description: Kubedge ECDS Operator
+    digest: ca2aa7568398b40fb3efe1775bde9b5f81fb22bb4869666f3aabbad923215df6
+    maintainers:
+    - name: Kubedge Authors
+    name: kubedge-ecds-operator
+    urls:
+    - kubedge-ecds-operator-0.1.0.tgz
+    version: 0.1.0
+  kubedge-embb-operator:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T16:37:30.559729663Z"
+    description: Kubedge MME Simulator Operator
+    digest: f664405f13a91887e37a63b0f3dce2cabeb3bbdc05ec37ed75da189c1769fd1b
+    maintainers:
+    - name: Kubedge Authors
+    name: kubedge-embb-operator
+    urls:
+    - kubedge-embb-operator-0.1.0.tgz
+    version: 0.1.0
+  kubedge-mme-operator:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T16:37:30.570509323Z"
+    description: Kubedge MME Simulator Operator
+    digest: 3efe6c58d1e282c046b083660aa5bd5c00d92e35fb15b8e6fb33fcd53b4b2204
+    maintainers:
+    - name: Kubedge Authors
+    name: kubedge-mme-operator
+    urls:
+    - kubedge-mme-operator-0.1.0.tgz
+    version: 0.1.0
+  kubeplay:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2023-03-13T16:37:30.571161085Z"
+    description: A Helm chart for Kubernetes
+    digest: 662f1cde05afa1dcbf082c6b10c84035fc01a0eebc99a2041d451c1d21bfeab1
+    name: kubeplay
+    urls:
+    - kubeplay-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-13T16:37:30.533457334Z"
