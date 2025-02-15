@@ -3,9 +3,9 @@ entries:
   fluentd:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T19:20:04.935319-06:00"
+    created: "2025-02-14T19:22:38.111824-06:00"
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: a4f658ba950147f08d073deb7419f17077e3e00a391109832019ea853520fe49
+    digest: 3ae9cd196e38d07f38818990c609090a1d7fd6b7e80951556b7a52837af85180
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
@@ -22,9 +22,9 @@ entries:
   grafana:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T19:20:04.935645-06:00"
+    created: "2025-02-14T19:22:38.112173-06:00"
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 4632fcd3bd016b6e2b3c774bfd421a9f07200a40e7a0329f7112c128d2c0fb6c
+    digest: 17dc2cb8bf981b2b407e3dceeae21856064981d1ca30cda03f4f5ef59d3aa868
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
     kubeVersion: ^1.8.0-0
@@ -42,9 +42,9 @@ entries:
   kubernetes-dashboard:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T19:20:04.935826-06:00"
+    created: "2025-02-14T19:22:38.112364-06:00"
     description: General-purpose web UI for Kubernetes clusters
-    digest: a6afc93af2c1728b5b4921161d0568d451ba087f8962839480c4b7439129a090
+    digest: 9d47fb737b78a9caeac9d16327943ab445703375fcc63419faf8077b4b237dda
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -62,9 +62,9 @@ entries:
   nats-operator:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T19:20:04.936013-06:00"
+    created: "2025-02-14T19:22:38.112565-06:00"
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: 1209bedb6bc4025fbd96c978d664445f4ad85bb564abbb84ae71043a15132153
+    digest: 9f422bff07e578cb236f63a942ae39aa12d9167500080fc6846e46fc7101da11
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -86,9 +86,9 @@ entries:
   nats-streaming:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T19:20:04.936115-06:00"
+    created: "2025-02-14T19:22:38.112674-06:00"
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: 5b64c167cea5e4a8436bd3abf19fde763bd4ea97e4b0014448fcaf998ab96cab
+    digest: 52f3b0f44c8f8c45498b301d657d048509d38f3cc7b2a5baf21730c529042f6a
     home: https://github.com/canhnt/k8s-nats-streaming
     name: nats-streaming
     urls:
@@ -97,9 +97,9 @@ entries:
   prometheus:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T19:20:04.93694-06:00"
+    created: "2025-02-14T19:22:38.113567-06:00"
     description: Prometheus is a monitoring system and time series database.
-    digest: 74aaa75f06015643aa80bdf174a6706c801307954cbedf88be5d4572300e9d0c
+    digest: 6147ba1d4c9ad3ee54e0e1002c30214c0ee66e35d05357337aacd4e5ce9ce727
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     maintainers:
@@ -120,9 +120,9 @@ entries:
   weave-scope:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T19:20:04.937148-06:00"
+    created: "2025-02-14T19:22:38.113794-06:00"
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: acc6da98296dd3f54e8d9f2cc9146800c96c57d5de0717cda66cf2bacd6fbdd8
+    digest: c877b686d6f03afec5ff8b8d4b788ba5bbe1ce1c660828cb603f3bf3905f816c
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -138,4 +138,4 @@ entries:
     urls:
     - weave-scope-0.10.0.tgz
     version: 0.10.0
-generated: "2025-02-14T19:20:04.935063-06:00"
+generated: "2025-02-14T19:22:38.111297-06:00"

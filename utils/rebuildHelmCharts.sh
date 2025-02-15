@@ -22,6 +22,14 @@ cd kubedge_utils; helm package charts/grafana/ --app-version $KUBEDGEVERSION --d
 cd kubedge_utils; helm package charts/weave-scope/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 cd kubedge_utils; helm package charts/nats-operator --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
 cd kubedge_utils; helm package charts/nats-streaming --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge2/; cd $GOODPATH
+#
+cd kubeplay; helm package charts/kubeplay/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge3/; cd $GOODPATH
+cd kubedge; helm package charts/kubedge/ --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge3/; cd $GOODPATH
+cd kubedge-operator-arpscan; helm package chart --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge3/; cd $GOODPATH
+cd kubedge-operator-ecds; helm package chart --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge3/; cd $GOODPATH
+cd kubedge-operator-embb; helm package chart --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge3/; cd $GOODPATH
+cd kubedge-operator-mme; helm package chart --app-version $KUBEDGEVERSION --destination $GOODPATH/helmrepos/kubedge3/; cd $GOODPATH
+#
 for i in kubedge1 kubedge2 hack4easy
 do
    cd helmrepos/$i
@@ -32,5 +40,5 @@ do
 done
 cd helmrepos
 git commit -a -m "update charts"
-git push origin HEAD:refs/for/arm64v8
+#git push origin HEAD:refs/for/main
 cd $GOODPATH
