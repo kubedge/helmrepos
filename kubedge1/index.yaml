@@ -3,9 +3,9 @@ entries:
   kubedge:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T18:43:02.079424-06:00"
+    created: "2025-02-14T18:43:34.829898-06:00"
     description: A Helm chart for Kubernetes
-    digest: 697c0ebd97d9281b01d2c69ee04e0559c85d49b20bde592b04104c6dc909ae60
+    digest: 4388aebfc4309272f9357c5a65552863d29af2351795af6f220128d8b80a7dae
     name: kubedge
     urls:
     - kubedge-0.1.0.tgz
@@ -13,9 +13,9 @@ entries:
   kubeplay:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T18:43:02.07954-06:00"
+    created: "2025-02-14T18:43:34.830008-06:00"
     description: A Helm chart for Kubernetes
-    digest: 56de4b3a5fdd064e14deb5c4d129dd92ca1a2f258dfdcf852fa4583ae557231f
+    digest: 46df46943bcd1654f1b1c10b0f4c6f095ed9bb460ab47e8176d130a087a1f22f
     name: kubeplay
     urls:
     - kubeplay-0.1.0.tgz
@@ -23,9 +23,9 @@ entries:
   kubesim-blinkt:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T18:43:02.07967-06:00"
+    created: "2025-02-14T18:43:34.830127-06:00"
     description: A Helm chart for Kubedge Simulator
-    digest: b93320644f837a9d0e6f17b55f7631f67cb309672331276d84a5a5a6d6f9c6b9
+    digest: 43bb57f49f05439e862765ae21044e6bb2b176970e45417d1cb43de8d59bbc74
     name: kubesim-blinkt
     urls:
     - kubesim-blinkt-0.1.0.tgz
@@ -33,7 +33,7 @@ entries:
   kubesim-linkio-arm64v8:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T18:43:02.079789-06:00"
+    created: "2025-02-14T18:43:34.83024-06:00"
     description: A Helm chart for Kubedge Simulator
     digest: a6c0db2b1586baa8fe63b84309b16a09126d0a1961ef99c04d892b4dc5e76517
     name: kubesim-linkio-arm64v8
@@ -43,9 +43,9 @@ entries:
   kubesim-nats-pub:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T18:43:02.079905-06:00"
+    created: "2025-02-14T18:43:34.830347-06:00"
     description: A Helm chart for Kubedge Simulator
-    digest: 3dbad8a3a303c36edf6387986fefe50706cfc08bcba3d28817b35f81ef1b8816
+    digest: 07104da33f22091b6843ea96a803360805b270d303449570305df4017d10adbe
     name: kubesim-nats-pub
     urls:
     - kubesim-nats-pub-0.1.0.tgz
@@ -53,11 +53,11 @@ entries:
   kubesim-nats-sub:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2025-02-14T18:43:02.080018-06:00"
+    created: "2025-02-14T18:43:34.830458-06:00"
     description: A Helm chart for Kubedge Simulator
-    digest: 35c7bbda8e7ea6fbb25e068e05d5d17b32fee22ffcc3fb59873f83a8437af11d
+    digest: 158477115e25a5bcc78854a95d256aff8774e88ebacdc13d0a7ed8ac7c03a154
     name: kubesim-nats-sub
     urls:
     - kubesim-nats-sub-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-14T18:43:02.079189-06:00"
+generated: "2025-02-14T18:43:34.82971-06:00"
