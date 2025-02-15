@@ -1,30 +1,30 @@
 apiVersion: v1
 entries:
-  fluentd-arm64v8:
+  fluentd:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T15:30:32.1513329Z"
+    created: "2025-02-14T18:43:02.120588-06:00"
     description: A Fluentd Elasticsearch Helm chart for Kubernetes.
-    digest: 02130eb3eb456f93c971681dc90f93d8ad1877c4ba0adc00cd819945407575d2
+    digest: 1575aabf38c344d867025e60726b44e267d160b8a6002a661c2e42cffd02493f
     home: https://www.fluentd.org/
     icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
     maintainers:
     - email: pete.brown@powerhrg.com
       name: rendhalver
-    name: fluentd-arm64v8
+    name: fluentd
     sources:
     - https://quay.io/repository/coreos/fluentd-kubernetes
     - https://github.com/coreos/fluentd-kubernetes-daemonset
     - https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html
     urls:
-    - fluentd-arm64v8-1.0.0.tgz
+    - fluentd-1.0.0.tgz
     version: 1.0.0
-  grafana-arm64v8:
+  grafana:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T15:30:32.152400769Z"
+    created: "2025-02-14T18:43:02.120927-06:00"
     description: The leading tool for querying and visualizing time series and metrics.
-    digest: 831e013b64acdb2bc2a6adadb2621578b63b9feaa24efb86e283c60ba2621f84
+    digest: d344e075038d3639de403ea5214d30342c070cb4247fc4ae2e3abf79a4d6e23b
     home: https://grafana.net
     icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
     kubeVersion: ^1.8.0-0
@@ -33,18 +33,18 @@ entries:
       name: zanhsieh
     - email: rluckie@cisco.com
       name: rtluckie
-    name: grafana-arm64v8
+    name: grafana
     sources:
     - https://github.com/grafana/grafana
     urls:
-    - grafana-arm64v8-1.17.4.tgz
+    - grafana-1.17.4.tgz
     version: 1.17.4
-  kubernetes-dashboard-arm64v8:
+  kubernetes-dashboard:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T15:30:32.155406198Z"
+    created: "2025-02-14T18:43:02.121115-06:00"
     description: General-purpose web UI for Kubernetes clusters
-    digest: e3bb31d7543261686d57a39c85391c6be52bd7d83cba14f6befe11efe90939ca
+    digest: 213c449b392f720353c0e3d48b8a3c43e5cb8899fc8a58e6c4ec2853c7412b97
     home: https://github.com/kubernetes/dashboard
     icon: https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg
     keywords:
@@ -53,18 +53,18 @@ entries:
     maintainers:
     - email: Kevin.Fox@pnnl.gov
       name: kfox1111
-    name: kubernetes-dashboard-arm64v8
+    name: kubernetes-dashboard
     sources:
     - https://github.com/kubernetes/dashboard
     urls:
-    - kubernetes-dashboard-arm64v8-0.7.5.tgz
+    - kubernetes-dashboard-0.7.5.tgz
     version: 0.7.5
-  nats-operator-arm64v8:
+  nats-operator:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T15:30:32.15645152Z"
+    created: "2025-02-14T18:43:02.121313-06:00"
     description: Nats operator creates/configures/manages nats clusters atop Kubernetes
-    digest: 4dad13f5810a734a586e1c2387fc5f4da1b40d70440a56c7946415add19745fa
+    digest: f2d506f5982d40e18bc10d6d8032bf03b599d2e659bae5cb6058715c666da87a
     home: https://github.com/nats-io/nats-operator
     icon: https://bitnami.com/assets/stacks/nats/img/nats-stack-110x117.png
     keywords:
@@ -77,29 +77,29 @@ entries:
     maintainers:
     - email: richerlariviere@gmail.com
       name: richerlariviere
-    name: nats-operator-arm64v8
+    name: nats-operator
     sources:
     - https://github.com/nats-io/nats-operator
     urls:
-    - nats-operator-arm64v8-0.0.1.tgz
+    - nats-operator-0.0.1.tgz
     version: 0.0.1
-  nats-streaming-arm64v8:
+  nats-streaming:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T15:30:32.157011231Z"
+    created: "2025-02-14T18:43:02.121422-06:00"
     description: Fault Tolerance NATS Streaming on Kubernetes (>=v1.8.0)
-    digest: ae601daa0545424156146611c14e301aeaff9ab414528d12f367272385086a1c
+    digest: 0baab6153a493777f61c7d8faeebac75acc92b176ece8b9a657fb9604aae3105
     home: https://github.com/canhnt/k8s-nats-streaming
-    name: nats-streaming-arm64v8
+    name: nats-streaming
     urls:
-    - nats-streaming-arm64v8-v0.3.0.tgz
+    - nats-streaming-v0.3.0.tgz
     version: v0.3.0
-  prometheus-arm64v8:
+  prometheus:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T15:30:32.159928065Z"
+    created: "2025-02-14T18:43:02.122249-06:00"
     description: Prometheus is a monitoring system and time series database.
-    digest: 89ed97a677986b6db2ab3ead446ff5a603c7ea7890d02b2f680f43f9685d8da8
+    digest: d95270300bad25df2556ab38fd1a3c5f74dc49da1b38c8001f02631bcb521390
     home: https://prometheus.io/
     icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
     maintainers:
@@ -107,7 +107,7 @@ entries:
       name: mgoodness
     - email: gianrubio@gmail.com
       name: gianrubio
-    name: prometheus-arm64v8
+    name: prometheus
     sources:
     - https://github.com/prometheus/alertmanager
     - https://github.com/prometheus/prometheus
@@ -115,14 +115,14 @@ entries:
     - https://github.com/prometheus/node_exporter
     - https://github.com/kubernetes/kube-state-metrics
     urls:
-    - prometheus-arm64v8-7.3.4.tgz
+    - prometheus-7.3.4.tgz
     version: 7.3.4
-  weave-scope-arm64v8:
+  weave-scope:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-13T15:30:32.160450677Z"
+    created: "2025-02-14T18:43:02.122884-06:00"
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: 673fdb2ce32821647bd72b011eebc500c63a5a69ac8a31b452bab6e6672d20a7
+    digest: ae090dc060559adb0ad945a76f3ac13ca26d44cf961728d3833399f662dec147
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -132,10 +132,10 @@ entries:
     maintainers:
     - email: github@orion-com.com
       name: omkensey
-    name: weave-scope-arm64v8
+    name: weave-scope
     sources:
     - https://github.com/weaveworks/scope
     urls:
-    - weave-scope-arm64v8-0.10.0.tgz
+    - weave-scope-0.10.0.tgz
     version: 0.10.0
-generated: "2023-03-13T15:30:32.150633114Z"
+generated: "2025-02-14T18:43:02.120318-06:00"
